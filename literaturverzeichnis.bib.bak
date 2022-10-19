@@ -1,0 +1,32 @@
+@Book{Woehe2020,
+  author    = {Günter Wöhe and Ulrich Döring and Gerrit Brösel},
+  publisher = {Franz Vahlen München},
+  title     = {Wöhe Einführung in die Allgemeine Betriebswirtschaftslehre},
+  year      = {2020},
+  edition   = {Bd. 27},
+  isbn      = {978-3-8006-6300-2},
+}
+
+@Misc{AMC22,
+  note  = {Abgerufen am: 25.02.2022},
+  title = {AMCON Software GmbH},
+  year  = {2022},
+  url   = {https://amcon.de/},
+}
+
+@Misc{AMC22B,
+  author = {AMCON},
+  note   = {Abgerufen am: 25.02.2022},
+  title  = {AMCON Software GmbH: Team},
+  year   = {2022},
+  url    = {https://amcon.de/team/#miteinander},
+}
+
+@Misc{AMC22c,
+  note  = {Abgerufen am: 25.02.2022},
+  title = {AMCON Software GmbH: Unternehmensleitbild},
+  year  = {2022},
+  url   = {https://amcon.de/unsere-story/#leitbild},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}

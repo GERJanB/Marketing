@@ -1,0 +1,68 @@
+% LaTeX-Vorlage für Dokumente an der IBS
+% nur für kurze Ausarbeitungen
+
+% #################################################################################
+% Header
+% #################################################################################
+\documentclass{scrartcl}						% Basisdokumentenklasse
+\usepackage[ngerman]{babel}        	% Deutsche Standardbezeichner und Trennung
+\usepackage[utf8]{inputenc}     		% Für Umlaute; dabei auf Kodierung des Editor achten
+\usepackage[T1]{fontenc}           	% und ß
+\usepackage{abstract} 							% Für Abstracts
+\usepackage{float}
+\usepackage[hyphens]{url}
+\usepackage{nohyperref}
+\usepackage{amsmath}
+\usepackage{float}
+% #################################################################################
+
+\usepackage{ibs}										%Immer zuletzt einbinden
+
+% #################################################################################
+% Das eigentliche Dokument
+% #################################################################################
+\begin{document}
+
+%Titel
+\title{Praxisreflexion 1: Betriebliche Einordnung}
+\author{Jan Budde}
+
+\publishers{Begutachtende: Dr. Birte Janssen}
+\maketitle %dadurch wird der Titel auch erstellt
+
+\renewcommand{\abstractname}{Abstract} %so heißt es auch "Abstract"; Voreinstellung ist "Zusammenfassung"
+\thispagestyle{empty}
+%Abstract
+
+%\begin{center}
+%\begin{abstract}
+%\noindent %Die erste Zeile des Abstrakts soll nicht eingrückt werden
+
+%\end{abstract}
+%\end{center}
+
+\pagebreak
+\tableofcontents %damit kann ein Inhaltsverzeichnis eingefügt werden
+\pagebreak
+
+% Verzeichnisse am Ende, erst das Glossar
+\addonchapter{Abkürzungsverzeichnis} % Es soll auch Glossar heißen
+\input{content/glossar}
+\pagebreak
+
+% Fußzeilen ab Seite 1 (fancy style auch auf titelpage)
+\thispagestyle{fancy}
+
+% Inhalte einfügen
+\input{content/inhalt}
+\pagebreak
+
+
+% Literatur
+\bibliographystyle{alphadin}									% Alphadin-Bibitem-Style zur Darstellung der Zitatkeys nach BA-Vorgabe
+\renewcommand{\bibname}{Literatur}	%das literaturverzeichnis heißt ,,Literatur''
+%\bibliography{literaturverzeichnis}
+\bibliography{literaturverzeichnis}
+% in JabRef bei Autorennamen Umlaute so schreiben: ö = {\"{o}}
+
+\end{document}

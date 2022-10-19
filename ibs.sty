@@ -1,0 +1,88 @@
+% #################################################################################
+% Paket IBS.sty
+% #################################################################################
+%%
+%% Bitte einbinden mit \usepackage{ibs}
+
+% Paket-Deklaration
+\ProvidesPackage{ibs}
+
+\usepackage{fancyhdr}  					% für die eigenen Kopf- und Fußzeilendefinitionen (Alternative: \usepackage{scrlayer-scrpage})
+\usepackage{times}   						% Schönere Schriften, Achtung, nicht pslatex verwenden!
+\usepackage{graphicx} 					% für Abbildungen
+\usepackage{setspace}						% für Änderungen der Zeilenabstände
+\usepackage{type1cm}						% um die Schriftgröße anzupassen
+\usepackage{geometry} 					% um die Gestaltung einer Seite zu verändern
+\usepackage{eurosym} 						% Euro-Symbole einbinden
+\usepackage[ngerman]{babel}
+
+% Schriftgröße zu 11.5pt gewechselt
+\renewcommand\normalsize{
+	\@setfontsize\normalsize{11.5}{14}
+}
+
+\newcommand{\standardparskip}[0]{\setlength{\parskip}{6pt}}
+\standardparskip   % Abstand zwischen den Absätzen
+
+% Oberer Rand und Header, Textstart ab 2.5cm
+%\setlength{\voffset}{-1.0in}
+%\setlength{\topmargin}{2.95cm}
+%\setlength{\headheight}{0cm}
+%\setlength{\headsep}{0cm}
+
+\newcommand{\addonchapter}[1]{\cleardoublepage \section*{#1} \addcontentsline{toc}{section}{#1} \sectionmark{#1}}
+
+% #################################################################################
+% Nützliche Zusatzbefehle für das Glossar usw.
+% #################################################################################
+\newcommand{\comment}[1]{}
+\newcommand{\siehe}[1]{$\uparrow$#1}
+\newcommand{\this}[0]{$\sim$ }
+
+
+% Einstellen der Header
+\pagestyle{fancy}
+\fancyhf{} % aktuelle Einstellungen für Kopf- und Fußzeilen löschen
+% keine Kopfzeile
+\lhead{} \chead{} \rhead{}
+% Fußzeile
+\lfoot{\sffamily \small Ausarbeitung von Jan Budde}
+\cfoot{}
+\rfoot{\sffamily \small Seite \thepage}
+\renewcommand{\headrulewidth}{0pt} %oben keine Linie
+\renewcommand{\footrulewidth}{0.4pt}
+\fancyfootoffset{0cm} %Linie unten genauso breit wie Text
+
+
+%Seitenlayout
+\geometry{a4paper,left=25mm,right=30mm, top=2cm, bottom=2cm, footskip=1cm}
+
+% Überschriften und Abstände zum Text
+%\renewcommand\section{\@startsection{section}{1}{\z@}%
+%                                   {-10pt}%
+%                                   {6pt}%
+%                                   {\sffamily\large\bfseries}}
+%\renewcommand\subsection{\@startsection{subsection}{2}{\z@}%
+%                                   {-10pt}%
+%                                   {6pt}%
+%                                   {\sffamily\large}}
+%\renewcommand\subsubsection{\@startsection{subsubsection}{3}{\z@}%
+%                                   {-8pt}%
+%                                   {3pt}%
+%                                   {\sffamily\large}}
+%\renewcommand\paragraph{\@startsection{paragraph}{4}{\z@}%
+%                                   {-8pt}%
+%                                   {1pt}%
+%                                   {\sffamily\normalsize}}
+% Fußnoten linksbündig und ein Space zwischen Nummer und Text
+%\usepackage[bottom,hang]{footmisc}
+%\setlength{\footnotemargin}{0pt}
+%\let\oldfncomm=\footnote
+%\renewcommand{\footnote}[1]{\oldfncomm{~#1}}
+
+% Listen (itemize, enumerate) linksbündig
+%\usepackage[flushright]{paralist}
+%\setdefaultleftmargin{0.5cm}{}{}{}{}{}
+%enumerate mit 1, 1.1 und 1.1.1 usw.
+%\renewcommand{\labelenumi}{\arabic{enumi}}
+%\renewcommand{\labelenumii}{\arabic{enumi}.\arabic{enumii}}

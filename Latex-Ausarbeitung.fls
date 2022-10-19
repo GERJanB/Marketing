@@ -494,18 +494,6 @@ INPUT C:\Users\janbu\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\helvetic\phvb
 INPUT .\Latex-Ausarbeitung.toc
 INPUT Latex-Ausarbeitung.toc
 INPUT Latex-Ausarbeitung.toc
-INPUT C:\Users\janbu\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr10.tfm
-INPUT C:\Users\janbu\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr8.tfm
-INPUT C:\Users\janbu\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr5.tfm
-INPUT C:\Users\janbu\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi10.tfm
-INPUT C:\Users\janbu\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi8.tfm
-INPUT C:\Users\janbu\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi5.tfm
-INPUT C:\Users\janbu\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy10.tfm
-INPUT C:\Users\janbu\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy8.tfm
-INPUT C:\Users\janbu\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy5.tfm
-INPUT C:\Users\janbu\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmex10.tfm
-INPUT C:\Users\janbu\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmex10.tfm
-INPUT C:\Users\janbu\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmex10.tfm
 OUTPUT Latex-Ausarbeitung.toc
 INPUT C:\Users\janbu\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\helvetic\phvr8t.tfm
 INPUT C:\Users\janbu\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\helvetic\phvr8t.tfm
@@ -513,8 +501,6 @@ INPUT C:\Users\janbu\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\helvetic\phvb8
 INPUT C:\Users\janbu\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\helvetic\phvb8r.tfm
 INPUT C:\Users\janbu\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\helvetic\phvb8t.vf
 INPUT C:\Users\janbu\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\helvetic\phvb8r.tfm
-INPUT C:\Users\janbu\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmr8t.vf
-INPUT C:\Users\janbu\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr8r.tfm
 INPUT C:\Users\janbu\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\helvetic\phvr8t.vf
 INPUT C:\Users\janbu\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\helvetic\phvr8r.tfm
 INPUT .\content\glossar.tex
@@ -524,9 +510,8 @@ INPUT content\glossar.tex
 INPUT .\content\glossar.tex
 INPUT .\content\glossar.tex
 INPUT content\glossar.tex
-INPUT C:\Users\janbu\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmri8t.tfm
-INPUT C:\Users\janbu\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmri8t.vf
-INPUT C:\Users\janbu\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmri8r.tfm
+INPUT C:\Users\janbu\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmr8t.vf
+INPUT C:\Users\janbu\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr8r.tfm
 INPUT .\content\inhalt.tex
 INPUT .\content\inhalt.tex
 INPUT .\content\inhalt.tex
@@ -534,83 +519,18 @@ INPUT content\inhalt.tex
 INPUT .\content\inhalt.tex
 INPUT .\content\inhalt.tex
 INPUT content\inhalt.tex
-INPUT C:\Users\janbu\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\helvetic\phvb8t.tfm
-INPUT C:\Users\janbu\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\helvetic\phvb8t.vf
-INPUT C:\Users\janbu\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\helvetic\phvb8r.tfm
-INPUT .\Eigene Darstellungen\Einliniensystem.PNG
-INPUT .\Eigene Darstellungen\Einliniensystem.PNG
-INPUT Eigene Darstellungen\Einliniensystem.PNG
-INPUT .\Eigene Darstellungen\Einliniensystem.PNG
-INPUT .\Eigene Darstellungen\Einliniensystem.PNG
-INPUT .\Eigene Darstellungen\Einliniensystem.PNG
-INPUT .\Eigene Darstellungen\Einliniensystem.PNG
-INPUT .\Eigene Darstellungen\Mehrliniensystem.PNG
-INPUT .\Eigene Darstellungen\Mehrliniensystem.PNG
-INPUT Eigene Darstellungen\Mehrliniensystem.PNG
-INPUT .\Eigene Darstellungen\Mehrliniensystem.PNG
-INPUT .\Eigene Darstellungen\Mehrliniensystem.PNG
-INPUT .\Eigene Darstellungen\Mehrliniensystem.PNG
-INPUT .\Eigene Darstellungen\Mehrliniensystem.PNG
-INPUT .\Eigene Darstellungen\Stablinienstruktur.PNG
-INPUT .\Eigene Darstellungen\Stablinienstruktur.PNG
-INPUT Eigene Darstellungen\Stablinienstruktur.PNG
-INPUT .\Eigene Darstellungen\Stablinienstruktur.PNG
-INPUT .\Eigene Darstellungen\Stablinienstruktur.PNG
-INPUT .\Eigene Darstellungen\Stablinienstruktur.PNG
-INPUT .\Eigene Darstellungen\Stablinienstruktur.PNG
-INPUT .\Eigene Darstellungen\Spartenorganisation.PNG
-INPUT .\Eigene Darstellungen\Spartenorganisation.PNG
-INPUT Eigene Darstellungen\Spartenorganisation.PNG
-INPUT .\Eigene Darstellungen\Spartenorganisation.PNG
-INPUT .\Eigene Darstellungen\Spartenorganisation.PNG
-INPUT .\Eigene Darstellungen\Spartenorganisation.PNG
-INPUT .\Eigene Darstellungen\Spartenorganisation.PNG
-INPUT .\Eigene Darstellungen\Matrixstruktur.PNG
-INPUT .\Eigene Darstellungen\Matrixstruktur.PNG
-INPUT Eigene Darstellungen\Matrixstruktur.PNG
-INPUT .\Eigene Darstellungen\Matrixstruktur.PNG
-INPUT .\Eigene Darstellungen\Matrixstruktur.PNG
-INPUT .\Eigene Darstellungen\Matrixstruktur.PNG
-INPUT .\Eigene Darstellungen\Matrixstruktur.PNG
-INPUT .\Eigene Darstellungen\OrganigrammEinfach.JPG
-INPUT .\Eigene Darstellungen\OrganigrammEinfach.JPG
-INPUT Eigene Darstellungen\OrganigrammEinfach.JPG
-INPUT .\Eigene Darstellungen\OrganigrammEinfach.JPG
-INPUT .\Eigene Darstellungen\OrganigrammEinfach.JPG
-INPUT .\Eigene Darstellungen\OrganigrammEinfach.JPG
-INPUT .\Eigene Darstellungen\OrganigrammEinfach.JPG
-INPUT .\Eigene Darstellungen\Entwicklung.JPG
-INPUT .\Eigene Darstellungen\Entwicklung.JPG
-INPUT Eigene Darstellungen\Entwicklung.JPG
-INPUT .\Eigene Darstellungen\Entwicklung.JPG
-INPUT .\Eigene Darstellungen\Entwicklung.JPG
-INPUT .\Eigene Darstellungen\Entwicklung.JPG
-INPUT .\Eigene Darstellungen\Entwicklung.JPG
-INPUT .\Eigene Darstellungen\SCRUM.png
-INPUT .\Eigene Darstellungen\SCRUM.png
-INPUT Eigene Darstellungen\SCRUM.png
-INPUT .\Eigene Darstellungen\SCRUM.png
-INPUT .\Eigene Darstellungen\SCRUM.png
-INPUT .\Eigene Darstellungen\SCRUM.png
-INPUT .\Eigene Darstellungen\SCRUM.png
 INPUT .\Latex-Ausarbeitung.bbl
 INPUT Latex-Ausarbeitung.bbl
 INPUT .\Latex-Ausarbeitung.bbl
 INPUT Latex-Ausarbeitung.bbl
 INPUT C:\Users\janbu\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmrc8t.tfm
-INPUT C:\Users\janbu\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\t1pcr.fd
-INPUT C:\Users\janbu\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\t1pcr.fd
-INPUT C:\Users\janbu\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\t1pcr.fd
-INPUT C:\Users\janbu\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\t1pcr.fd
-INPUT C:\Users\janbu\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\courier\pcrr8t.tfm
+INPUT C:\Users\janbu\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmri8t.tfm
 INPUT C:\Users\janbu\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmrc8t.vf
 INPUT C:\Users\janbu\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr8r.tfm
-INPUT C:\Users\janbu\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\courier\pcrr8t.vf
-INPUT C:\Users\janbu\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\courier\pcrr8r.tfm
+INPUT C:\Users\janbu\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmri8t.vf
+INPUT C:\Users\janbu\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmri8r.tfm
 INPUT Latex-Ausarbeitung.aux
 INPUT C:\Users\janbu\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\base\8r.enc
-INPUT C:\Users\janbu\AppData\Local\Programs\MiKTeX\fonts\type1\urw\courier\ucrr8a.pfb
-INPUT C:\Users\janbu\AppData\Local\Programs\MiKTeX\fonts\type1\urw\courier\ucrr8a.pfb
 INPUT C:\Users\janbu\AppData\Local\Programs\MiKTeX\fonts\type1\urw\helvetic\uhvb8a.pfb
 INPUT C:\Users\janbu\AppData\Local\Programs\MiKTeX\fonts\type1\urw\helvetic\uhvb8a.pfb
 INPUT C:\Users\janbu\AppData\Local\Programs\MiKTeX\fonts\type1\urw\helvetic\uhvr8a.pfb

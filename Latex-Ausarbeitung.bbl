@@ -7,6 +7,14 @@
   \providecommand{\doi}[1]{doi: #1}\else
   \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
 
+\bibitem[Bec18]{Becker2018}
+\textsc{Becker}, Jochen:
+\newblock \emph{Marketing-Konzeption}.
+\newblock Vahlen Franz GmbH, 2018
+  \url{https://www.ebook.de/de/product/33172684/jochen_becker_marketing_konzeption.html}.
+  --
+\newblock ISBN 3800657597
+
 \bibitem[Bru14]{Brun2014}
 \textsc{Brun}, Manfred:
 \newblock \emph{Marketing, Grundlagen für Studium und Praxis}.
@@ -22,6 +30,12 @@
 \textsc{Kleinaltenkamp}, Alfred Kuß;~M.:
 \newblock \emph{Marketing - Einführung, Grundlagen - Überblick - Beispiele}.
 \newblock Springer Gabler, 2016
+
+\bibitem[Law12]{Lawlor2012}
+\textsc{Lawlor}, K.~B.:
+\newblock Smart Goals: How the Application of Smart Goals can Contribute to
+  Achievement of Student Learning Outcomes.
+\newblock   (2012)
 
 \bibitem[M{\"{u}}l21]{Mueller2021}
 \textsc{M{\"{u}}ller}, Katharina:

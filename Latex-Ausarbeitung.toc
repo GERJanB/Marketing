@@ -5,4 +5,5 @@
 \contentsline {section}{\numberline {2}Marketing Mix}{8}{}%
 \contentsline {subsection}{\numberline {2.1}Kommunikationspolitik}{9}{}%
 \contentsline {subsection}{\numberline {2.2}Branchenanalyse}{11}{}%
+\contentsline {subsection}{\numberline {2.3}Marketingziele}{13}{}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 

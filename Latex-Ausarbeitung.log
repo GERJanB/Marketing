@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.10.19)  19 OCT 2022 17:29
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.10.19)  19 OCT 2022 17:40
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -305,7 +305,7 @@ File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
 File: l3backend-pdftex.def 2022-09-28 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count278
 \l__pdf_internal_box=\box58
-) (Latex-Ausarbeitung.aux)
+) (Latex-Ausarbeitung.aux (content/Situationsanalyse/SWOTAnalyse.aux))
 \openout1 = `Latex-Ausarbeitung.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
@@ -381,27 +381,37 @@ File: t1phv.fd 2020/03/25 scalable font definitions for T1/phv.
 ) [1
 
 
-{C:/Users/janbu/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] (Latex-Ausarbeitung.toc)
+{C:/Users/janbu/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] (Latex-Ausarbeitung.toc
+LaTeX Font Info:    Calculating math sizes for size <11.5> on input line 4.
+)
 \tf@toc=\write3
 \openout3 = `Latex-Ausarbeitung.toc'.
 
  [2] (content/glossar.tex) [3
 
 
-] (content/inhalt.tex) [4] (Latex-Ausarbeitung.bbl) [5] (Latex-Ausarbeitung.aux) )
+] (content/inhalt.tex [4]
+\openout2 = `content/Situationsanalyse/SWOTAnalyse.aux'.
+
+ (content/Situationsanalyse/SWOTAnalyse.tex) [5
+
+]) [6
+
+
+] (Latex-Ausarbeitung.bbl) [7] (Latex-Ausarbeitung.aux (content/Situationsanalyse/SWOTAnalyse.aux)) )
 (\end occurred when \ifx on line 24 was incomplete) 
 Here is how much of TeX's memory you used:
- 7667 strings out of 475385
- 150166 string characters out of 2776906
- 627506 words of memory out of 3000000
- 28936 multiletter control sequences out of 15000+600000
- 501393 words of font info for 54 fonts, out of 8000000 for 9000
+ 7730 strings out of 475385
+ 152580 string characters out of 2776906
+ 627801 words of memory out of 3000000
+ 28986 multiletter control sequences out of 15000+600000
+ 507512 words of font info for 68 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  108i,11n,106p,10718b,346s stack positions out of 10000i,1000n,20000p,200000b,80000s
 {C:/Users/janbu/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/Users/janbu/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Users/janbu/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Users/janbu/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/janbu/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on Latex-Ausarbeitung.pdf (5 pages, 51181 bytes).
+Output written on Latex-Ausarbeitung.pdf (7 pages, 55422 bytes).
 PDF statistics:
- 39 PDF objects out of 1000 (max. 8388607)
+ 47 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

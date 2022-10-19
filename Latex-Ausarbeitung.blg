@@ -1,6 +1,8 @@
 This is BibTeX, Version 0.99d
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: Latex-Ausarbeitung.aux
+Reallocating 'name_of_file' (item size: 1) to 42 items.
+A level-1 auxiliary file: content/Situationsanalyse/SWOTAnalyse.aux
 Reallocating 'name_of_file' (item size: 1) to 9 items.
 The style file: alphadin.bst
 Reallocating 'name_of_file' (item size: 1) to 21 items.
@@ -12,7 +14,7 @@ Reallocating 'singl_function' (item size: 4) to 100 items.
 Database file #1: literaturverzeichnis.bib
 You've used 1 entry,
             4793 wiz_defined-function locations,
-            897 strings with 6469 characters,
+            898 strings with 6510 characters,
 and the built_in function-call counts, 887 in all, are:
 = -- 89
 > -- 25

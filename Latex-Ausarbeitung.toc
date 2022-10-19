@@ -1,4 +1,5 @@
 \babel@toc {ngerman}{}\relax 
 \contentsline {section}{Abkürzungsverzeichnis}{3}{}%
 \contentsline {section}{\numberline {1}Einleitung}{4}{}%
+\contentsline {subsection}{\numberline {1.1}SWOT-Analyse}{5}{}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 

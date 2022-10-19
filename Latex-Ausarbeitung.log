@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.10.19)  19 OCT 2022 17:40
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.10.19)  19 OCT 2022 18:21
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -224,6 +224,14 @@ LaTeX Info: Redefining \Relbar on input line 971.
 \mathdisplay@stack=\toks25
 LaTeX Info: Redefining \[ on input line 2953.
 LaTeX Info: Redefining \] on input line 2954.
+) (C:\Users\janbu\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\labelindent=\skip71
+\enit@outerparindent=\dimen149
+\enit@toks=\toks26
+\enit@inbox=\box57
+\enit@count@id=\count275
+\enitdp@description=\count276
 ) (ibs.sty
 Package: ibs 
 
@@ -243,15 +251,15 @@ Class scrartcl Warning: Usage of package `fancyhdr' together
 
 (C:\Users\janbu\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
 Package: fancyhdr 2022/05/18 v4.0.3 Extensive control of page headers and footers
-\f@nch@headwidth=\skip71
-\f@nch@O@elh=\skip72
-\f@nch@O@erh=\skip73
-\f@nch@O@olh=\skip74
-\f@nch@O@orh=\skip75
-\f@nch@O@elf=\skip76
-\f@nch@O@erf=\skip77
-\f@nch@O@olf=\skip78
-\f@nch@O@orf=\skip79
+\f@nch@headwidth=\skip72
+\f@nch@O@elh=\skip73
+\f@nch@O@erh=\skip74
+\f@nch@O@olh=\skip75
+\f@nch@O@orh=\skip76
+\f@nch@O@elf=\skip77
+\f@nch@O@erf=\skip78
+\f@nch@O@olf=\skip79
+\f@nch@O@orf=\skip80
 ) (C:\Users\janbu\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\times.sty
 Package: times 2020/03/25 PSNFSS-v9.3 (SPQR) 
 ) (C:\Users\janbu\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
@@ -266,11 +274,11 @@ File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 Package graphics Info: Driver file: pdftex.def on input line 107.
  (C:\Users\janbu\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
 File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
-\stockwidth=\dimen149
-\stockheight=\dimen150
+\stockwidth=\dimen150
+\stockheight=\dimen151
 ))
-\Gin@req@height=\dimen151
-\Gin@req@width=\dimen152
+\Gin@req@height=\dimen152
+\Gin@req@width=\dimen153
 ) (C:\Users\janbu\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.sty
 Package: setspace 2011/12/19 v6.7a set line spacing
 ) (C:\Users\janbu\AppData\Local\Programs\MiKTeX\tex/latex/type1cm\type1cm.sty
@@ -282,59 +290,59 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
  (C:\Users\janbu\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
 Package: iftex 2022/02/03 v1.0f TeX engine tests
 ))
-\Gm@cnth=\count275
-\Gm@cntv=\count276
-\c@Gm@tempcnt=\count277
-\Gm@bindingoffset=\dimen153
-\Gm@wd@mp=\dimen154
-\Gm@odd@mp=\dimen155
-\Gm@even@mp=\dimen156
-\Gm@layoutwidth=\dimen157
-\Gm@layoutheight=\dimen158
-\Gm@layouthoffset=\dimen159
-\Gm@layoutvoffset=\dimen160
-\Gm@dimlist=\toks26
+\Gm@cnth=\count277
+\Gm@cntv=\count278
+\c@Gm@tempcnt=\count279
+\Gm@bindingoffset=\dimen154
+\Gm@wd@mp=\dimen155
+\Gm@odd@mp=\dimen156
+\Gm@even@mp=\dimen157
+\Gm@layoutwidth=\dimen158
+\Gm@layoutheight=\dimen159
+\Gm@layouthoffset=\dimen160
+\Gm@layoutvoffset=\dimen161
+\Gm@dimlist=\toks27
  (C:\Users\janbu\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg)) (C:\Users\janbu\AppData\Local\Programs\MiKTeX\tex/latex/eurosym\eurosym.sty
 Package: eurosym 1998/08/06 v1.1 European currency symbol ``Euro''
-\@eurobox=\box57
+\@eurobox=\box58
 ))
-LaTeX Font Info:    Trying to load font information for T1+ptm on input line 24.
+LaTeX Font Info:    Trying to load font information for T1+ptm on input line 25.
  (C:\Users\janbu\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\t1ptm.fd
 File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
 ) (C:\Users\janbu\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2022-09-28 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count278
-\l__pdf_internal_box=\box58
+\l__color_backend_stack_int=\count280
+\l__pdf_internal_box=\box59
 ) (Latex-Ausarbeitung.aux (content/Situationsanalyse/SWOTAnalyse.aux))
 \openout1 = `Latex-Ausarbeitung.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
  (C:\Users\janbu\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count279
-\scratchdimen=\dimen161
-\scratchbox=\box59
-\nofMPsegments=\count280
-\nofMParguments=\count281
-\everyMPshowfont=\toks27
-\MPscratchCnt=\count282
-\MPscratchDim=\dimen162
-\MPnumerator=\count283
-\makeMPintoPDFobject=\count284
-\everyMPtoPDFconversion=\toks28
+\scratchcounter=\count281
+\scratchdimen=\dimen162
+\scratchbox=\box60
+\nofMPsegments=\count282
+\nofMParguments=\count283
+\everyMPshowfont=\toks28
+\MPscratchCnt=\count284
+\MPscratchDim=\dimen163
+\MPnumerator=\count285
+\makeMPintoPDFobject=\count286
+\everyMPtoPDFconversion=\toks29
 ) (C:\Users\janbu\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
@@ -375,7 +383,7 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Font Info:    Trying to load font information for T1+phv on input line 32.
+LaTeX Font Info:    Trying to load font information for T1+phv on input line 33.
 (C:\Users\janbu\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\t1phv.fd
 File: t1phv.fd 2020/03/25 scalable font definitions for T1/phv.
 ) [1
@@ -393,25 +401,53 @@ LaTeX Font Info:    Calculating math sizes for size <11.5> on input line 4.
 ] (content/inhalt.tex [4]
 \openout2 = `content/Situationsanalyse/SWOTAnalyse.aux'.
 
- (content/Situationsanalyse/SWOTAnalyse.tex) [5
+ (content/Situationsanalyse/SWOTAnalyse.tex
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 9.
+ (C:\Users\janbu\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1ptm.fd
+File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
+)) [5
 
 ]) [6
 
 
-] (Latex-Ausarbeitung.bbl) [7] (Latex-Ausarbeitung.aux (content/Situationsanalyse/SWOTAnalyse.aux)) )
-(\end occurred when \ifx on line 24 was incomplete) 
+] (Latex-Ausarbeitung.bbl
+LaTeX Font Info:    Trying to load font information for T1+pcr on input line 20.
+ (C:\Users\janbu\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\t1pcr.fd
+File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
+)
+Underfull \hbox (badness 2512) in paragraph at lines 16--22
+[]\T1/ptm/m/sc/11.5 Müller\T1/ptm/m/n/11.5 , Ka-tha-ri-na:  \T1/ptm/m/it/11.5 Traum vom Ei-gen-heim zer-platzt: Eu-ro-päi-sche Nach-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--22
+\T1/ptm/m/it/11.5 barn zei-gen, wo es im Sys-tem hakt\T1/ptm/m/n/11.5 .  $\T1/pcr/m/n/11.5 https : / / www . focus . de /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--22
+\T1/pcr/m/n/11.5 immobilien / kaufen / in -[] miete -[] gefangen -[] traum -[] vom -[] eigenheim -[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--22
+\T1/pcr/m/n/11.5 schwindet -[] nachbarlaender -[] zeigen -[] wo -[] unser -[] system -[]
+ []
+
+) [7] (Latex-Ausarbeitung.aux (content/Situationsanalyse/SWOTAnalyse.aux)) )
+(\end occurred when \ifx on line 25 was incomplete) 
 Here is how much of TeX's memory you used:
- 7730 strings out of 475385
- 152580 string characters out of 2776906
- 627801 words of memory out of 3000000
- 28986 multiletter control sequences out of 15000+600000
- 507512 words of font info for 68 fonts, out of 8000000 for 9000
+ 8127 strings out of 475385
+ 159377 string characters out of 2776906
+ 642333 words of memory out of 3000000
+ 29368 multiletter control sequences out of 15000+600000
+ 511250 words of font info for 73 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  108i,11n,106p,10718b,346s stack positions out of 10000i,1000n,20000p,200000b,80000s
-{C:/Users/janbu/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/Users/janbu/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Users/janbu/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Users/janbu/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/janbu/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on Latex-Ausarbeitung.pdf (7 pages, 55422 bytes).
+{C:/Users/janbu/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/Users/janbu/AppData/Local/Programs/MiKTeX/fonts/type1/urw/courier/ucrr8a.pfb><C:/Users/janbu/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Users/janbu/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Users/janbu/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/janbu/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/janbu/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
+Output written on Latex-Ausarbeitung.pdf (7 pages, 83086 bytes).
 PDF statistics:
- 47 PDF objects out of 1000 (max. 8388607)
+ 57 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

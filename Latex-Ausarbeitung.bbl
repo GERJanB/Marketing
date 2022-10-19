@@ -7,6 +7,19 @@
   \providecommand{\doi}[1]{doi: #1}\else
   \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
 
+\bibitem[Bru14]{Brun2014}
+\textsc{Brun}, Manfred:
+\newblock \emph{Marketing, Grundlagen für Studium und Praxis}.
+\newblock Springer Gabler, 2014
+
+\bibitem[Mü21]{Mueller2021}
+\textsc{Müller}, Katharina:
+\newblock \emph{Traum vom Eigenheim zerplatzt: Europäische Nachbarn zeigen, wo
+  es im System hakt}.
+\newblock
+  \url{https://www.focus.de/immobilien/kaufen/in-miete-gefangen-traum-vom-eigenheim-schwindet-nachbarlaender-zeigen-wo-unser-system-krankt_id_13396264.html}.
+\newblock \,Version:\,2021
+
 \bibitem[WDB20]{Woehe2020}
 \textsc{Wöhe}, Günter ; \textsc{Döring}, Ulrich  ; \textsc{Brösel}, Gerrit:
 \newblock \emph{Wöhe Einführung in die Allgemeine Betriebswirtschaftslehre}.

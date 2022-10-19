@@ -12,44 +12,47 @@ Reallocating 'wiz_functions' (item size: 4) to 6000 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
 Database file #1: literaturverzeichnis.bib
-You've used 1 entry,
+Warning--entry type for "Mueller2021" isn't style-file defined
+--line 47 of file literaturverzeichnis.bib
+You've used 3 entries,
             4793 wiz_defined-function locations,
-            898 strings with 6510 characters,
-and the built_in function-call counts, 887 in all, are:
-= -- 89
-> -- 25
-< -- 26
-+ -- 31
-- -- 9
-* -- 61
-:= -- 157
-add.period$ -- 2
-call.type$ -- 1
-change.case$ -- 6
-chr.to.int$ -- 1
-cite$ -- 1
-duplicate$ -- 19
-empty$ -- 59
-format.name$ -- 16
-if$ -- 171
+            910 strings with 6874 characters,
+and the built_in function-call counts, 1726 in all, are:
+= -- 167
+> -- 41
+< -- 48
++ -- 53
+- -- 13
+* -- 100
+:= -- 297
+add.period$ -- 5
+call.type$ -- 3
+change.case$ -- 14
+chr.to.int$ -- 3
+cite$ -- 3
+duplicate$ -- 51
+empty$ -- 133
+format.name$ -- 28
+if$ -- 346
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 4
-newline$ -- 17
-num.names$ -- 3
-pop$ -- 7
+missing$ -- 14
+newline$ -- 28
+num.names$ -- 9
+pop$ -- 22
 preamble$ -- 1
-purify$ -- 8
+purify$ -- 20
 quote$ -- 0
-skip$ -- 41
+skip$ -- 95
 stack$ -- 0
-substring$ -- 85
-swap$ -- 5
-text.length$ -- 4
-text.prefix$ -- 0
+substring$ -- 127
+swap$ -- 9
+text.length$ -- 8
+text.prefix$ -- 2
 top$ -- 0
-type$ -- 6
+type$ -- 22
 warning$ -- 0
-while$ -- 7
-width$ -- 2
-write$ -- 22
+while$ -- 13
+width$ -- 4
+write$ -- 46
+(There was 1 warning)

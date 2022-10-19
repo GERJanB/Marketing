@@ -14,45 +14,45 @@ Reallocating 'singl_function' (item size: 4) to 100 items.
 Database file #1: literaturverzeichnis.bib
 Warning--entry type for "Mueller2021" isn't style-file defined
 --line 47 of file literaturverzeichnis.bib
-You've used 3 entries,
+You've used 2 entries,
             4793 wiz_defined-function locations,
-            910 strings with 6874 characters,
-and the built_in function-call counts, 1726 in all, are:
-= -- 167
-> -- 41
-< -- 48
-+ -- 53
-- -- 13
-* -- 100
-:= -- 297
-add.period$ -- 5
-call.type$ -- 3
-change.case$ -- 14
-chr.to.int$ -- 3
-cite$ -- 3
-duplicate$ -- 51
-empty$ -- 133
-format.name$ -- 28
-if$ -- 346
+            902 strings with 6697 characters,
+and the built_in function-call counts, 882 in all, are:
+= -- 78
+> -- 16
+< -- 22
++ -- 22
+- -- 4
+* -- 41
+:= -- 157
+add.period$ -- 3
+call.type$ -- 2
+change.case$ -- 8
+chr.to.int$ -- 2
+cite$ -- 2
+duplicate$ -- 32
+empty$ -- 75
+format.name$ -- 12
+if$ -- 177
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 14
-newline$ -- 28
-num.names$ -- 9
-pop$ -- 22
+missing$ -- 10
+newline$ -- 21
+num.names$ -- 6
+pop$ -- 15
 preamble$ -- 1
-purify$ -- 20
+purify$ -- 12
 quote$ -- 0
-skip$ -- 95
+skip$ -- 54
 stack$ -- 0
-substring$ -- 127
-swap$ -- 9
-text.length$ -- 8
+substring$ -- 42
+swap$ -- 4
+text.length$ -- 4
 text.prefix$ -- 2
 top$ -- 0
-type$ -- 22
+type$ -- 16
 warning$ -- 0
-while$ -- 13
+while$ -- 6
 width$ -- 4
-write$ -- 46
+write$ -- 31
 (There was 1 warning)

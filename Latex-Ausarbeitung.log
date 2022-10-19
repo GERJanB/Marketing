@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.10.19)  19 OCT 2022 18:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.10.19)  19 OCT 2022 18:48
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -405,49 +405,55 @@ LaTeX Font Info:    Calculating math sizes for size <11.5> on input line 4.
 LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 9.
  (C:\Users\janbu\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
-)) [5
+) [5
 
-]) [6
-
-
-] (Latex-Ausarbeitung.bbl
+]
+<Eigene Darstellungen/SWOT Tabelle.jpg, id=21, 1382.91656pt x 606.76688pt>
+File: Eigene Darstellungen/SWOT Tabelle.jpg Graphic file (type jpg)
+<use Eigene Darstellungen/SWOT Tabelle.jpg>
+Package pdftex.def Info: Eigene Darstellungen/SWOT Tabelle.jpg  used on input line 80.
+(pdftex.def)             Requested size: 396.91325pt x 174.14322pt.
+ [6 <./Eigene Darstellungen/SWOT Tabelle.jpg>]) [7]) (Latex-Ausarbeitung.bbl
 LaTeX Font Info:    Trying to load font information for T1+pcr on input line 20.
  (C:\Users\janbu\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\t1pcr.fd
 File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
 )
-Underfull \hbox (badness 2512) in paragraph at lines 16--22
-[]\T1/ptm/m/sc/11.5 Müller\T1/ptm/m/n/11.5 , Ka-tha-ri-na:  \T1/ptm/m/it/11.5 Traum vom Ei-gen-heim zer-platzt: Eu-ro-päi-sche Nach-
+Underfull \hbox (badness 1394) in paragraph at lines 16--22
+[]\T1/ptm/m/sc/11.5 Müller\T1/ptm/m/n/11.5 , Ka-tha-ri-na:  \T1/ptm/m/it/11.5 Traum vom Ei-gen-heim zer-platzt: Eu-ro-päi-sche Nach-barn
+ []
+
+
+Underfull \hbox (badness 2020) in paragraph at lines 16--22
+\T1/ptm/m/it/11.5 zei-gen, wo es im Sys-tem hakt\T1/ptm/m/n/11.5 .  $\T1/pcr/m/n/11.5 https : / / www . focus . de / immobilien /
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 16--22
-\T1/ptm/m/it/11.5 barn zei-gen, wo es im Sys-tem hakt\T1/ptm/m/n/11.5 .  $\T1/pcr/m/n/11.5 https : / / www . focus . de /
+\T1/pcr/m/n/11.5 kaufen / in -[] miete -[] gefangen -[] traum -[] vom -[] eigenheim -[] schwindet -[]
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 16--22
-\T1/pcr/m/n/11.5 immobilien / kaufen / in -[] miete -[] gefangen -[] traum -[] vom -[] eigenheim -[]
+\T1/pcr/m/n/11.5 nachbarlaender -[] zeigen -[] wo -[] unser -[] system -[] krankt _ id _ 13396264 .
  []
 
+) [8
 
-Underfull \hbox (badness 10000) in paragraph at lines 16--22
-\T1/pcr/m/n/11.5 schwindet -[] nachbarlaender -[] zeigen -[] wo -[] unser -[] system -[]
- []
 
-) [7] (Latex-Ausarbeitung.aux (content/Situationsanalyse/SWOTAnalyse.aux)) )
+] (Latex-Ausarbeitung.aux (content/Situationsanalyse/SWOTAnalyse.aux)) )
 (\end occurred when \ifx on line 25 was incomplete) 
 Here is how much of TeX's memory you used:
- 8127 strings out of 475385
- 159377 string characters out of 2776906
- 642333 words of memory out of 3000000
- 29368 multiletter control sequences out of 15000+600000
+ 8135 strings out of 475385
+ 159664 string characters out of 2776906
+ 642325 words of memory out of 3000000
+ 29373 multiletter control sequences out of 15000+600000
  511250 words of font info for 73 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 108i,11n,106p,10718b,346s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 108i,11n,106p,10718b,386s stack positions out of 10000i,1000n,20000p,200000b,80000s
 {C:/Users/janbu/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/Users/janbu/AppData/Local/Programs/MiKTeX/fonts/type1/urw/courier/ucrr8a.pfb><C:/Users/janbu/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Users/janbu/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Users/janbu/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/janbu/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/janbu/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on Latex-Ausarbeitung.pdf (7 pages, 83086 bytes).
+Output written on Latex-Ausarbeitung.pdf (8 pages, 234038 bytes).
 PDF statistics:
- 57 PDF objects out of 1000 (max. 8388607)
+ 61 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
 

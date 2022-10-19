@@ -549,13 +549,6 @@ INPUT C:\Users\janbu\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmr8t.v
 INPUT C:\Users\janbu\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr8r.tfm
 INPUT C:\Users\janbu\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\helvetic\phvr8t.vf
 INPUT C:\Users\janbu\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\helvetic\phvr8r.tfm
-INPUT .\content\glossar.tex
-INPUT .\content\glossar.tex
-INPUT .\content\glossar.tex
-INPUT content\glossar.tex
-INPUT .\content\glossar.tex
-INPUT .\content\glossar.tex
-INPUT content\glossar.tex
 INPUT .\content\inhalt.tex
 INPUT .\content\inhalt.tex
 INPUT .\content\inhalt.tex
@@ -584,17 +577,17 @@ INPUT content\Situationsanalyse\SWOTAnalyse.tex
 INPUT .\content\Situationsanalyse\SWOTAnalyse.tex
 INPUT content\Situationsanalyse\SWOTAnalyse.tex
 INPUT C:\Users\janbu\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\helvetic\phvb8t.tfm
+INPUT C:\Users\janbu\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmb8t.tfm
 INPUT C:\Users\janbu\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\ts1ptm.fd
 INPUT C:\Users\janbu\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\ts1ptm.fd
 INPUT C:\Users\janbu\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\ts1ptm.fd
 INPUT C:\Users\janbu\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\ts1ptm.fd
 INPUT C:\Users\janbu\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr8c.tfm
-INPUT C:\Users\janbu\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmb8t.tfm
 INPUT C:\Users\janbu\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\helvetic\phvb8t.vf
 INPUT C:\Users\janbu\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\helvetic\phvb8r.tfm
-INPUT C:\Users\janbu\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmr8c.vf
 INPUT C:\Users\janbu\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmb8t.vf
 INPUT C:\Users\janbu\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmb8r.tfm
+INPUT C:\Users\janbu\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmr8c.vf
 INPUT .\Eigene Darstellungen\SWOT Tabelle.jpg
 INPUT .\Eigene Darstellungen\SWOT Tabelle.jpg
 INPUT Eigene Darstellungen\SWOT Tabelle.jpg
@@ -659,6 +652,13 @@ INPUT .\content\MarketingMix\Distributionspolitik.tex
 INPUT content\MarketingMix\Distributionspolitik.tex
 INPUT .\content\MarketingMix\Distributionspolitik.tex
 INPUT content\MarketingMix\Distributionspolitik.tex
+INPUT .\Eigene Darstellungen\Distributionswege1.png
+INPUT .\Eigene Darstellungen\Distributionswege1.png
+INPUT Eigene Darstellungen\Distributionswege1.png
+INPUT .\Eigene Darstellungen\Distributionswege1.png
+INPUT .\Eigene Darstellungen\Distributionswege1.png
+INPUT .\Eigene Darstellungen\Distributionswege1.png
+INPUT .\Eigene Darstellungen\Distributionswege1.png
 INPUT .\Latex-Ausarbeitung.bbl
 INPUT Latex-Ausarbeitung.bbl
 INPUT .\Latex-Ausarbeitung.bbl

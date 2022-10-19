@@ -1,10 +1,9 @@
 \babel@toc {ngerman}{}\relax 
-\contentsline {section}{Abkürzungsverzeichnis}{3}{}%
-\contentsline {section}{\numberline {1}Situationsanalyse}{4}{}%
-\contentsline {subsection}{\numberline {1.1}SWOT-Analyse}{5}{}%
-\contentsline {section}{\numberline {2}Marketing Mix}{8}{}%
-\contentsline {subsection}{\numberline {2.1}Kommunikationspolitik}{9}{}%
-\contentsline {subsection}{\numberline {2.2}Branchenanalyse}{11}{}%
-\contentsline {subsection}{\numberline {2.3}Marketingziele}{13}{}%
-\contentsline {subsection}{\numberline {2.4}Distributionspolitik}{14}{}%
+\contentsline {section}{\numberline {1}Situationsanalyse}{3}{}%
+\contentsline {subsection}{\numberline {1.1}SWOT-Analyse}{4}{}%
+\contentsline {section}{\numberline {2}Marketing Mix}{7}{}%
+\contentsline {subsection}{\numberline {2.1}Kommunikationspolitik}{8}{}%
+\contentsline {subsection}{\numberline {2.2}Branchenanalyse}{10}{}%
+\contentsline {subsection}{\numberline {2.3}Marketingziele}{12}{}%
+\contentsline {subsection}{\numberline {2.4}Distributionspolitik}{13}{}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 

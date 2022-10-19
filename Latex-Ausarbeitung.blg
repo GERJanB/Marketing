@@ -1,10 +1,16 @@
 This is BibTeX, Version 0.99d
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: Latex-Ausarbeitung.aux
+Reallocating 'name_of_file' (item size: 1) to 41 items.
+A level-1 auxiliary file: content/Situationsanalyse/Ueberblick.aux
 Reallocating 'name_of_file' (item size: 1) to 42 items.
 A level-1 auxiliary file: content/Situationsanalyse/SWOTAnalyse.aux
+Reallocating 'name_of_file' (item size: 1) to 29 items.
+A level-1 auxiliary file: content/MarketingMix/Mix.aux
 Reallocating 'name_of_file' (item size: 1) to 47 items.
 A level-1 auxiliary file: content/MarketingMix/Kommunikationspolitik.aux
+Reallocating 'name_of_file' (item size: 1) to 46 items.
+A level-1 auxiliary file: content/Situationsanalyse/Branchenanalyse.aux
 Reallocating 'name_of_file' (item size: 1) to 9 items.
 The style file: alphadin.bst
 Reallocating 'name_of_file' (item size: 1) to 21 items.
@@ -16,45 +22,45 @@ Reallocating 'singl_function' (item size: 4) to 100 items.
 Database file #1: literaturverzeichnis.bib
 Warning--entry type for "Mueller2021" isn't style-file defined
 --line 47 of file literaturverzeichnis.bib
-You've used 3 entries,
+You've used 4 entries,
             4793 wiz_defined-function locations,
-            908 strings with 6863 characters,
-and the built_in function-call counts, 1386 in all, are:
-= -- 128
-> -- 24
-< -- 45
-+ -- 45
-- -- 7
-* -- 63
-:= -- 239
-add.period$ -- 4
-call.type$ -- 3
-change.case$ -- 12
-chr.to.int$ -- 3
-cite$ -- 3
-duplicate$ -- 49
-empty$ -- 114
-format.name$ -- 18
-if$ -- 275
+            916 strings with 7149 characters,
+and the built_in function-call counts, 1796 in all, are:
+= -- 171
+> -- 32
+< -- 53
++ -- 53
+- -- 9
+* -- 82
+:= -- 310
+add.period$ -- 5
+call.type$ -- 4
+change.case$ -- 16
+chr.to.int$ -- 4
+cite$ -- 4
+duplicate$ -- 65
+empty$ -- 149
+format.name$ -- 24
+if$ -- 361
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 14
-newline$ -- 26
-num.names$ -- 9
-pop$ -- 23
+missing$ -- 17
+newline$ -- 31
+num.names$ -- 12
+pop$ -- 31
 preamble$ -- 1
-purify$ -- 18
+purify$ -- 24
 quote$ -- 0
-skip$ -- 93
+skip$ -- 119
 stack$ -- 0
-substring$ -- 77
-swap$ -- 6
-text.length$ -- 6
-text.prefix$ -- 3
+substring$ -- 95
+swap$ -- 7
+text.length$ -- 8
+text.prefix$ -- 4
 top$ -- 0
-type$ -- 22
+type$ -- 32
 warning$ -- 0
-while$ -- 9
-width$ -- 4
-write$ -- 42
+while$ -- 12
+width$ -- 6
+write$ -- 54
 (There was 1 warning)

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.10.19)  19 OCT 2022 19:38
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.10.19)  19 OCT 2022 20:14
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -313,7 +313,7 @@ File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
 File: l3backend-pdftex.def 2022-09-28 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count280
 \l__pdf_internal_box=\box59
-) (Latex-Ausarbeitung.aux (content/Situationsanalyse/SWOTAnalyse.aux) (content/MarketingMix/Kommunikationspolitik.aux))
+) (Latex-Ausarbeitung.aux (content/Situationsanalyse/Ueberblick.aux) (content/Situationsanalyse/SWOTAnalyse.aux) (content/MarketingMix/Mix.aux) (content/MarketingMix/Kommunikationspolitik.aux) (content/Situationsanalyse/Branchenanalyse.aux))
 \openout1 = `Latex-Ausarbeitung.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
@@ -398,7 +398,12 @@ LaTeX Font Info:    Calculating math sizes for size <11.5> on input line 4.
  [2] (content/glossar.tex) [3
 
 
-] (content/inhalt.tex [4]
+] (content/inhalt.tex
+\openout2 = `content/Situationsanalyse/Ueberblick.aux'.
+
+ (content/Situationsanalyse/Ueberblick.tex) [4
+
+]
 \openout2 = `content/Situationsanalyse/SWOTAnalyse.aux'.
 
  (content/Situationsanalyse/SWOTAnalyse.tex
@@ -407,6 +412,8 @@ LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 9.
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 ) [5
 
+
+
 ]
 <Eigene Darstellungen/SWOT Tabelle.jpg, id=21, 1382.91656pt x 606.76688pt>
 File: Eigene Darstellungen/SWOT Tabelle.jpg Graphic file (type jpg)
@@ -414,53 +421,73 @@ File: Eigene Darstellungen/SWOT Tabelle.jpg Graphic file (type jpg)
 Package pdftex.def Info: Eigene Darstellungen/SWOT Tabelle.jpg  used on input line 80.
 (pdftex.def)             Requested size: 396.91325pt x 174.14322pt.
  [6 <./Eigene Darstellungen/SWOT Tabelle.jpg>]) [7]
+\openout2 = `content/MarketingMix/Mix.aux'.
+
+ (content/MarketingMix/Mix.tex) [8
+
+
+
+]
 \openout2 = `content/MarketingMix/Kommunikationspolitik.aux'.
 
- (content/MarketingMix/Kommunikationspolitik.tex [8
+ (content/MarketingMix/Kommunikationspolitik.tex [9
 
 
 
-]) [9]) (Latex-Ausarbeitung.bbl
-LaTeX Font Info:    Trying to load font information for T1+pcr on input line 25.
+]) [10]
+\openout2 = `content/Situationsanalyse/Branchenanalyse.aux'.
+
+ (content/Situationsanalyse/Branchenanalyse.tex [11
+
+
+
+]
+<Eigene Darstellungen/Distributionswege2.png, id=41, 584.1825pt x 463.7325pt>
+File: Eigene Darstellungen/Distributionswege2.png Graphic file (type png)
+<use Eigene Darstellungen/Distributionswege2.png>
+Package pdftex.def Info: Eigene Darstellungen/Distributionswege2.png  used on input line 80.
+(pdftex.def)             Requested size: 396.91325pt x 315.08626pt.
+) [12 <./Eigene Darstellungen/Distributionswege2.png>]) (Latex-Ausarbeitung.bbl
+LaTeX Font Info:    Trying to load font information for T1+pcr on input line 31.
  (C:\Users\janbu\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\t1pcr.fd
 File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
 )
-Underfull \hbox (badness 1194) in paragraph at lines 21--27
-[]\T1/ptm/m/sc/11.5 Müller\T1/ptm/m/n/11.5 , Ka-tha-ri-na:  \T1/ptm/m/it/11.5 Traum vom Ei-gen-heim zer-platzt: Eu-ro-päi-sche Nach-barn
+Underfull \hbox (badness 3312) in paragraph at lines 27--33
+[]\T1/ptm/m/sc/11.5 Müller\T1/ptm/m/n/11.5 , Ka-tha-ri-na:  \T1/ptm/m/it/11.5 Traum vom Ei-gen-heim zer-platzt: Eu-ro-päi-sche Nach-
  []
 
 
-Underfull \hbox (badness 1735) in paragraph at lines 21--27
-\T1/ptm/m/it/11.5 zei-gen, wo es im Sys-tem hakt\T1/ptm/m/n/11.5 .  $\T1/pcr/m/n/11.5 https : / / www . focus . de / immobilien /
+Underfull \hbox (badness 10000) in paragraph at lines 27--33
+\T1/ptm/m/it/11.5 barn zei-gen, wo es im Sys-tem hakt\T1/ptm/m/n/11.5 .  $\T1/pcr/m/n/11.5 https : / / www . focus . de /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 21--27
-\T1/pcr/m/n/11.5 kaufen / in -[] miete -[] gefangen -[] traum -[] vom -[] eigenheim -[] schwindet -[]
+Underfull \hbox (badness 10000) in paragraph at lines 27--33
+\T1/pcr/m/n/11.5 immobilien / kaufen / in -[] miete -[] gefangen -[] traum -[] vom -[] eigenheim -[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 21--27
-\T1/pcr/m/n/11.5 nachbarlaender -[] zeigen -[] wo -[] unser -[] system -[] krankt _ id _ 13396264 .
+Underfull \hbox (badness 10000) in paragraph at lines 27--33
+\T1/pcr/m/n/11.5 schwindet -[] nachbarlaender -[] zeigen -[] wo -[] unser -[] system -[] krankt _
  []
 
-) [10
+) [13
 
 
-] (Latex-Ausarbeitung.aux (content/Situationsanalyse/SWOTAnalyse.aux) (content/MarketingMix/Kommunikationspolitik.aux)) )
+] (Latex-Ausarbeitung.aux (content/Situationsanalyse/Ueberblick.aux) (content/Situationsanalyse/SWOTAnalyse.aux) (content/MarketingMix/Mix.aux) (content/MarketingMix/Kommunikationspolitik.aux) (content/Situationsanalyse/Branchenanalyse.aux)) )
 (\end occurred when \ifx on line 25 was incomplete) 
 Here is how much of TeX's memory you used:
- 8169 strings out of 475385
- 161535 string characters out of 2776906
- 642624 words of memory out of 3000000
- 29398 multiletter control sequences out of 15000+600000
+ 8266 strings out of 475385
+ 166410 string characters out of 2776906
+ 644479 words of memory out of 3000000
+ 29472 multiletter control sequences out of 15000+600000
  511250 words of font info for 73 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  108i,12n,106p,10718b,392s stack positions out of 10000i,1000n,20000p,200000b,80000s
 {C:/Users/janbu/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/Users/janbu/AppData/Local/Programs/MiKTeX/fonts/type1/urw/courier/ucrr8a.pfb><C:/Users/janbu/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Users/janbu/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Users/janbu/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/janbu/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/janbu/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on Latex-Ausarbeitung.pdf (10 pages, 241391 bytes).
+Output written on Latex-Ausarbeitung.pdf (13 pages, 260891 bytes).
 PDF statistics:
- 67 PDF objects out of 1000 (max. 8388607)
+ 80 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
 

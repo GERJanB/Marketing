@@ -461,12 +461,21 @@ INPUT C:\Users\janbu\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend
 INPUT .\Latex-Ausarbeitung.aux
 INPUT Latex-Ausarbeitung.aux
 INPUT Latex-Ausarbeitung.aux
+INPUT .\content\Situationsanalyse\Ueberblick.aux
+INPUT content\Situationsanalyse\Ueberblick.aux
+INPUT content\Situationsanalyse\Ueberblick.aux
 INPUT .\content\Situationsanalyse\SWOTAnalyse.aux
 INPUT content\Situationsanalyse\SWOTAnalyse.aux
 INPUT content\Situationsanalyse\SWOTAnalyse.aux
+INPUT .\content\MarketingMix\Mix.aux
+INPUT content\MarketingMix\Mix.aux
+INPUT content\MarketingMix\Mix.aux
 INPUT .\content\MarketingMix\Kommunikationspolitik.aux
 INPUT content\MarketingMix\Kommunikationspolitik.aux
 INPUT content\MarketingMix\Kommunikationspolitik.aux
+INPUT .\content\Situationsanalyse\Branchenanalyse.aux
+INPUT content\Situationsanalyse\Branchenanalyse.aux
+INPUT content\Situationsanalyse\Branchenanalyse.aux
 OUTPUT Latex-Ausarbeitung.aux
 INPUT C:\Users\janbu\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr8t.tfm
 INPUT C:\Users\janbu\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
@@ -548,6 +557,16 @@ INPUT content\inhalt.tex
 INPUT .\content\inhalt.tex
 INPUT .\content\inhalt.tex
 INPUT content\inhalt.tex
+INPUT .\content\Situationsanalyse\Ueberblick.tex
+INPUT .\content\Situationsanalyse\Ueberblick.tex
+INPUT .\content\Situationsanalyse\Ueberblick.tex
+OUTPUT content\Situationsanalyse\Ueberblick.aux
+INPUT .\content\Situationsanalyse\Ueberblick.tex
+INPUT .\content\Situationsanalyse\Ueberblick.tex
+INPUT .\content\Situationsanalyse\Ueberblick.tex
+INPUT content\Situationsanalyse\Ueberblick.tex
+INPUT .\content\Situationsanalyse\Ueberblick.tex
+INPUT content\Situationsanalyse\Ueberblick.tex
 INPUT .\content\Situationsanalyse\SWOTAnalyse.tex
 INPUT .\content\Situationsanalyse\SWOTAnalyse.tex
 INPUT .\content\Situationsanalyse\SWOTAnalyse.tex
@@ -577,6 +596,16 @@ INPUT .\Eigene Darstellungen\SWOT Tabelle.jpg
 INPUT .\Eigene Darstellungen\SWOT Tabelle.jpg
 INPUT .\Eigene Darstellungen\SWOT Tabelle.jpg
 INPUT .\Eigene Darstellungen\SWOT Tabelle.jpg
+INPUT .\content\MarketingMix\Mix.tex
+INPUT .\content\MarketingMix\Mix.tex
+INPUT .\content\MarketingMix\Mix.tex
+OUTPUT content\MarketingMix\Mix.aux
+INPUT .\content\MarketingMix\Mix.tex
+INPUT .\content\MarketingMix\Mix.tex
+INPUT .\content\MarketingMix\Mix.tex
+INPUT content\MarketingMix\Mix.tex
+INPUT .\content\MarketingMix\Mix.tex
+INPUT content\MarketingMix\Mix.tex
 INPUT .\content\MarketingMix\Kommunikationspolitik.tex
 INPUT .\content\MarketingMix\Kommunikationspolitik.tex
 INPUT .\content\MarketingMix\Kommunikationspolitik.tex
@@ -587,6 +616,23 @@ INPUT .\content\MarketingMix\Kommunikationspolitik.tex
 INPUT content\MarketingMix\Kommunikationspolitik.tex
 INPUT .\content\MarketingMix\Kommunikationspolitik.tex
 INPUT content\MarketingMix\Kommunikationspolitik.tex
+INPUT .\content\Situationsanalyse\Branchenanalyse.tex
+INPUT .\content\Situationsanalyse\Branchenanalyse.tex
+INPUT .\content\Situationsanalyse\Branchenanalyse.tex
+OUTPUT content\Situationsanalyse\Branchenanalyse.aux
+INPUT .\content\Situationsanalyse\Branchenanalyse.tex
+INPUT .\content\Situationsanalyse\Branchenanalyse.tex
+INPUT .\content\Situationsanalyse\Branchenanalyse.tex
+INPUT content\Situationsanalyse\Branchenanalyse.tex
+INPUT .\content\Situationsanalyse\Branchenanalyse.tex
+INPUT content\Situationsanalyse\Branchenanalyse.tex
+INPUT .\Eigene Darstellungen\Distributionswege2.png
+INPUT .\Eigene Darstellungen\Distributionswege2.png
+INPUT Eigene Darstellungen\Distributionswege2.png
+INPUT .\Eigene Darstellungen\Distributionswege2.png
+INPUT .\Eigene Darstellungen\Distributionswege2.png
+INPUT .\Eigene Darstellungen\Distributionswege2.png
+INPUT .\Eigene Darstellungen\Distributionswege2.png
 INPUT .\Latex-Ausarbeitung.bbl
 INPUT Latex-Ausarbeitung.bbl
 INPUT .\Latex-Ausarbeitung.bbl
@@ -605,12 +651,21 @@ INPUT C:\Users\janbu\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmri8r
 INPUT C:\Users\janbu\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\courier\pcrr8t.vf
 INPUT C:\Users\janbu\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\courier\pcrr8r.tfm
 INPUT Latex-Ausarbeitung.aux
+INPUT .\content\Situationsanalyse\Ueberblick.aux
+INPUT content\Situationsanalyse\Ueberblick.aux
+INPUT content\Situationsanalyse\Ueberblick.aux
 INPUT .\content\Situationsanalyse\SWOTAnalyse.aux
 INPUT content\Situationsanalyse\SWOTAnalyse.aux
 INPUT content\Situationsanalyse\SWOTAnalyse.aux
+INPUT .\content\MarketingMix\Mix.aux
+INPUT content\MarketingMix\Mix.aux
+INPUT content\MarketingMix\Mix.aux
 INPUT .\content\MarketingMix\Kommunikationspolitik.aux
 INPUT content\MarketingMix\Kommunikationspolitik.aux
 INPUT content\MarketingMix\Kommunikationspolitik.aux
+INPUT .\content\Situationsanalyse\Branchenanalyse.aux
+INPUT content\Situationsanalyse\Branchenanalyse.aux
+INPUT content\Situationsanalyse\Branchenanalyse.aux
 INPUT C:\Users\janbu\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\base\8r.enc
 INPUT C:\Users\janbu\AppData\Local\Programs\MiKTeX\fonts\type1\urw\courier\ucrr8a.pfb
 INPUT C:\Users\janbu\AppData\Local\Programs\MiKTeX\fonts\type1\urw\courier\ucrr8a.pfb

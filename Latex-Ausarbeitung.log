@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.10.19)  19 OCT 2022 20:34
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.10.19)  19 OCT 2022 20:42
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -313,7 +313,7 @@ File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
 File: l3backend-pdftex.def 2022-09-28 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count280
 \l__pdf_internal_box=\box59
-) (Latex-Ausarbeitung.aux (content/Situationsanalyse/Ueberblick.aux) (content/Situationsanalyse/SWOTAnalyse.aux) (content/MarketingMix/Mix.aux) (content/MarketingMix/Kommunikationspolitik.aux) (content/Situationsanalyse/Branchenanalyse.aux) (content/MarketingMix/Marketingziele.aux))
+) (Latex-Ausarbeitung.aux (content/Situationsanalyse/Ueberblick.aux) (content/Situationsanalyse/SWOTAnalyse.aux) (content/MarketingMix/Mix.aux) (content/MarketingMix/Kommunikationspolitik.aux) (content/Situationsanalyse/Branchenanalyse.aux) (content/MarketingMix/Marketingziele.aux) (content/MarketingMix/Distributionspolitik.aux))
 \openout1 = `Latex-Ausarbeitung.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
@@ -454,6 +454,13 @@ Package pdftex.def Info: Eigene Darstellungen/Distributionswege2.png  used on in
 
 
 
+]
+\openout2 = `content/MarketingMix/Distributionspolitik.aux'.
+
+ (content/MarketingMix/Distributionspolitik.tex) [14
+
+
+
 ]) (Latex-Ausarbeitung.bbl
 LaTeX Font Info:    Trying to load font information for T1+pcr on input line 14.
  (C:\Users\janbu\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\t1pcr.fd
@@ -488,23 +495,23 @@ Underfull \hbox (badness 10000) in paragraph at lines 41--47
 \T1/pcr/m/n/11.5 schwindet -[] nachbarlaender -[] zeigen -[] wo -[] unser -[] system -[] krankt _
  []
 
-) [14
+) [15
 
 
-] (Latex-Ausarbeitung.aux (content/Situationsanalyse/Ueberblick.aux) (content/Situationsanalyse/SWOTAnalyse.aux) (content/MarketingMix/Mix.aux) (content/MarketingMix/Kommunikationspolitik.aux) (content/Situationsanalyse/Branchenanalyse.aux) (content/MarketingMix/Marketingziele.aux)) )
+] (Latex-Ausarbeitung.aux (content/Situationsanalyse/Ueberblick.aux) (content/Situationsanalyse/SWOTAnalyse.aux) (content/MarketingMix/Mix.aux) (content/MarketingMix/Kommunikationspolitik.aux) (content/Situationsanalyse/Branchenanalyse.aux) (content/MarketingMix/Marketingziele.aux) (content/MarketingMix/Distributionspolitik.aux)) )
 (\end occurred when \ifx on line 25 was incomplete) 
 Here is how much of TeX's memory you used:
- 8297 strings out of 475385
- 167985 string characters out of 2776906
- 644780 words of memory out of 3000000
- 29496 multiletter control sequences out of 15000+600000
+ 8326 strings out of 475385
+ 169704 string characters out of 2776906
+ 645065 words of memory out of 3000000
+ 29518 multiletter control sequences out of 15000+600000
  511250 words of font info for 73 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  108i,12n,106p,10718b,392s stack positions out of 10000i,1000n,20000p,200000b,80000s
 {C:/Users/janbu/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/Users/janbu/AppData/Local/Programs/MiKTeX/fonts/type1/urw/courier/ucrr8a.pfb><C:/Users/janbu/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Users/janbu/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Users/janbu/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/janbu/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/janbu/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on Latex-Ausarbeitung.pdf (14 pages, 264745 bytes).
+Output written on Latex-Ausarbeitung.pdf (15 pages, 266212 bytes).
 PDF statistics:
- 83 PDF objects out of 1000 (max. 8388607)
+ 86 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 

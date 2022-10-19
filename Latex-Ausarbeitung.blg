@@ -18,15 +18,15 @@ Warning--entry type for "Mueller2021" isn't style-file defined
 --line 47 of file literaturverzeichnis.bib
 You've used 3 entries,
             4793 wiz_defined-function locations,
-            908 strings with 6858 characters,
-and the built_in function-call counts, 1390 in all, are:
+            908 strings with 6863 characters,
+and the built_in function-call counts, 1386 in all, are:
 = -- 128
 > -- 24
 < -- 45
 + -- 45
 - -- 7
 * -- 63
-:= -- 243
+:= -- 239
 add.period$ -- 4
 call.type$ -- 3
 change.case$ -- 12
@@ -45,7 +45,7 @@ pop$ -- 23
 preamble$ -- 1
 purify$ -- 18
 quote$ -- 0
-skip$ -- 91
+skip$ -- 93
 stack$ -- 0
 substring$ -- 77
 swap$ -- 6
@@ -55,6 +55,6 @@ top$ -- 0
 type$ -- 22
 warning$ -- 0
 while$ -- 9
-width$ -- 6
+width$ -- 4
 write$ -- 42
 (There was 1 warning)

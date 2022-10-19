@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.10.19)  19 OCT 2022 19:34
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.10.19)  19 OCT 2022 19:38
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -425,12 +425,12 @@ LaTeX Font Info:    Trying to load font information for T1+pcr on input line 25.
  (C:\Users\janbu\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\t1pcr.fd
 File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
 )
-Underfull \hbox (badness 1394) in paragraph at lines 21--27
+Underfull \hbox (badness 1194) in paragraph at lines 21--27
 []\T1/ptm/m/sc/11.5 Müller\T1/ptm/m/n/11.5 , Ka-tha-ri-na:  \T1/ptm/m/it/11.5 Traum vom Ei-gen-heim zer-platzt: Eu-ro-päi-sche Nach-barn
  []
 
 
-Underfull \hbox (badness 2020) in paragraph at lines 21--27
+Underfull \hbox (badness 1735) in paragraph at lines 21--27
 \T1/ptm/m/it/11.5 zei-gen, wo es im Sys-tem hakt\T1/ptm/m/n/11.5 .  $\T1/pcr/m/n/11.5 https : / / www . focus . de / immobilien /
  []
 
@@ -452,13 +452,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 21--27
 Here is how much of TeX's memory you used:
  8169 strings out of 475385
  161535 string characters out of 2776906
- 642619 words of memory out of 3000000
+ 642624 words of memory out of 3000000
  29398 multiletter control sequences out of 15000+600000
  511250 words of font info for 73 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  108i,12n,106p,10718b,392s stack positions out of 10000i,1000n,20000p,200000b,80000s
 {C:/Users/janbu/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/Users/janbu/AppData/Local/Programs/MiKTeX/fonts/type1/urw/courier/ucrr8a.pfb><C:/Users/janbu/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Users/janbu/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Users/janbu/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/janbu/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/janbu/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on Latex-Ausarbeitung.pdf (10 pages, 241389 bytes).
+Output written on Latex-Ausarbeitung.pdf (10 pages, 241391 bytes).
 PDF statistics:
  67 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

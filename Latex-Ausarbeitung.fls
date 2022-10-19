@@ -464,6 +464,9 @@ INPUT Latex-Ausarbeitung.aux
 INPUT .\content\Situationsanalyse\SWOTAnalyse.aux
 INPUT content\Situationsanalyse\SWOTAnalyse.aux
 INPUT content\Situationsanalyse\SWOTAnalyse.aux
+INPUT .\content\MarketingMix\Kommunikationspolitik.aux
+INPUT content\MarketingMix\Kommunikationspolitik.aux
+INPUT content\MarketingMix\Kommunikationspolitik.aux
 OUTPUT Latex-Ausarbeitung.aux
 INPUT C:\Users\janbu\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr8t.tfm
 INPUT C:\Users\janbu\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
@@ -574,6 +577,16 @@ INPUT .\Eigene Darstellungen\SWOT Tabelle.jpg
 INPUT .\Eigene Darstellungen\SWOT Tabelle.jpg
 INPUT .\Eigene Darstellungen\SWOT Tabelle.jpg
 INPUT .\Eigene Darstellungen\SWOT Tabelle.jpg
+INPUT .\content\MarketingMix\Kommunikationspolitik.tex
+INPUT .\content\MarketingMix\Kommunikationspolitik.tex
+INPUT .\content\MarketingMix\Kommunikationspolitik.tex
+OUTPUT content\MarketingMix\Kommunikationspolitik.aux
+INPUT .\content\MarketingMix\Kommunikationspolitik.tex
+INPUT .\content\MarketingMix\Kommunikationspolitik.tex
+INPUT .\content\MarketingMix\Kommunikationspolitik.tex
+INPUT content\MarketingMix\Kommunikationspolitik.tex
+INPUT .\content\MarketingMix\Kommunikationspolitik.tex
+INPUT content\MarketingMix\Kommunikationspolitik.tex
 INPUT .\Latex-Ausarbeitung.bbl
 INPUT Latex-Ausarbeitung.bbl
 INPUT .\Latex-Ausarbeitung.bbl
@@ -595,6 +608,9 @@ INPUT Latex-Ausarbeitung.aux
 INPUT .\content\Situationsanalyse\SWOTAnalyse.aux
 INPUT content\Situationsanalyse\SWOTAnalyse.aux
 INPUT content\Situationsanalyse\SWOTAnalyse.aux
+INPUT .\content\MarketingMix\Kommunikationspolitik.aux
+INPUT content\MarketingMix\Kommunikationspolitik.aux
+INPUT content\MarketingMix\Kommunikationspolitik.aux
 INPUT C:\Users\janbu\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\base\8r.enc
 INPUT C:\Users\janbu\AppData\Local\Programs\MiKTeX\fonts\type1\urw\courier\ucrr8a.pfb
 INPUT C:\Users\janbu\AppData\Local\Programs\MiKTeX\fonts\type1\urw\courier\ucrr8a.pfb

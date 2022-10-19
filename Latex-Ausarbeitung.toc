@@ -2,4 +2,5 @@
 \contentsline {section}{Abkürzungsverzeichnis}{3}{}%
 \contentsline {section}{\numberline {1}Einleitung}{4}{}%
 \contentsline {subsection}{\numberline {1.1}SWOT-Analyse}{5}{}%
+\contentsline {subsection}{\numberline {1.2}Kommunikationspolitik}{8}{}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 

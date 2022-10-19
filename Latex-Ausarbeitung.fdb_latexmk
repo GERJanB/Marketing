@@ -1,13 +1,14 @@
 # Fdb version 3
-["bibtex Latex-Ausarbeitung"] 1666198088 "Latex-Ausarbeitung.aux" "Latex-Ausarbeitung.bbl" "Latex-Ausarbeitung" 1666198132
+["bibtex Latex-Ausarbeitung"] 1666200806 "Latex-Ausarbeitung.aux" "Latex-Ausarbeitung.bbl" "Latex-Ausarbeitung" 1666200884
   "C:/Users/janbu/AppData/Local/Programs/MiKTeX/bibtex/bst/din1505/alphadin.bst" 1139852412 55981 bb3d488c43a074e2c361fac27856c205 ""
-  "Latex-Ausarbeitung.aux" 1666198132 725 aac8fd2adf4bd7850c660c0927937389 "pdflatex"
-  "content/Situationsanalyse/SWOTAnalyse.aux" 1666198132 684 ca630b40fca17403ca3c33559278a0a0 "pdflatex"
+  "Latex-Ausarbeitung.aux" 1666200883 808 6d8042f0b4c13c2cd811810aca827c76 "pdflatex"
+  "content/MarketingMix/Kommunikationspolitik.aux" 1666200883 737 6d5a5b73c1c0e2463998a564b020ae17 "pdflatex"
+  "content/Situationsanalyse/SWOTAnalyse.aux" 1666200883 684 ca630b40fca17403ca3c33559278a0a0 "pdflatex"
   "literaturverzeichnis.bib" 1666196522 1103 297fc9cd5d5bfcdf0e55500dc03f6aac ""
   (generated)
   "Latex-Ausarbeitung.bbl"
   "Latex-Ausarbeitung.blg"
-["pdflatex"] 1666198130 "c:/Users/janbu/Desktop/PR1/Latex-Ausarbeitung.tex" "Latex-Ausarbeitung.pdf" "Latex-Ausarbeitung" 1666198132
+["pdflatex"] 1666200882 "c:/Users/janbu/Desktop/PR1/Latex-Ausarbeitung.tex" "Latex-Ausarbeitung.pdf" "Latex-Ausarbeitung" 1666200884
   "C:/Users/janbu/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1666195698 82705 9cc9f144eacd499bc23a611703921467 ""
   "C:/Users/janbu/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1666192175 10788011 7f26bda4576e3b5d73629f3229a276ff ""
   "C:/Users/janbu/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc" 1458473887 4993 1194fb36dfcb11d9ae9802f2b00b60a3 ""
@@ -106,18 +107,21 @@
   "C:/Users/janbu/AppData/Local/Programs/MiKTeX/tex/latex/type1cm/type1cm.sty" 1469030226 7308 b3808cbbf9acbbebce7c0645a02fb1ff ""
   "C:/Users/janbu/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "Eigene Darstellungen/SWOT Tabelle.jpg" 1666197704 149545 df81178e1fce87e4c32236554f8920e0 ""
-  "Latex-Ausarbeitung.aux" 1666198132 725 aac8fd2adf4bd7850c660c0927937389 "pdflatex"
-  "Latex-Ausarbeitung.bbl" 1666198088 844 e51fb3fc187dab30523cd62485cced46 "bibtex Latex-Ausarbeitung"
-  "Latex-Ausarbeitung.toc" 1666198132 270 8034a38e1fed0a834a42fa04d0644820 "pdflatex"
+  "Latex-Ausarbeitung.aux" 1666200883 808 6d8042f0b4c13c2cd811810aca827c76 "pdflatex"
+  "Latex-Ausarbeitung.bbl" 1666200806 1029 3b342e716c3de5fc2c6a978f5825f835 "bibtex Latex-Ausarbeitung"
+  "Latex-Ausarbeitung.toc" 1666200883 343 e26570ea5c5d56680fb07d6916dc5bc1 "pdflatex"
   "c:/Users/janbu/Desktop/PR1/Latex-Ausarbeitung.tex" 1666195682 2330 27cdca097732d3b0fbaa3b2f54b9bc3e ""
-  "content/Situationsanalyse/SWOTAnalyse.aux" 1666198132 684 ca630b40fca17403ca3c33559278a0a0 "pdflatex"
-  "content/Situationsanalyse/SWOTAnalyse.tex" 1666198129 7114 37f3e504e0efd8bbb003ca9dee9d0bf7 ""
+  "content/MarketingMix/Kommunikationspolitik.aux" 1666200883 737 6d5a5b73c1c0e2463998a564b020ae17 "pdflatex"
+  "content/MarketingMix/Kommunikationspolitik.tex" 1666200881 5622 45eba666258456df56d9ad742215b267 ""
+  "content/Situationsanalyse/SWOTAnalyse.aux" 1666200883 684 ca630b40fca17403ca3c33559278a0a0 "pdflatex"
+  "content/Situationsanalyse/SWOTAnalyse.tex" 1666198200 7114 37f3e504e0efd8bbb003ca9dee9d0bf7 ""
   "content/glossar.tex" 1666193363 72 19a83adf86593f19c93f49f4025e466b ""
-  "content/inhalt.tex" 1666196617 206 b9a1bd1d6e62205ab9f633640ccaf18d ""
+  "content/inhalt.tex" 1666198682 262 bd2b2ae7fe4fae2a4f229a457461d7df ""
   "ibs.sty" 1642678735 3553 64cc6ed374a0b7508fcd7f487d56aa73 ""
   (generated)
   "Latex-Ausarbeitung.aux"
   "Latex-Ausarbeitung.log"
   "Latex-Ausarbeitung.pdf"
   "Latex-Ausarbeitung.toc"
+  "content/MarketingMix/Kommunikationspolitik.aux"
   "content/Situationsanalyse/SWOTAnalyse.aux"

@@ -1,0 +1,75 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: Latex-Ausarbeitung.aux
+Reallocating 'name_of_file' (item size: 1) to 41 items.
+A level-1 auxiliary file: content/Situationsanalyse/Ueberblick.aux
+Reallocating 'name_of_file' (item size: 1) to 39 items.
+A level-1 auxiliary file: content/Situationsanalyse/PersonaB.aux
+Reallocating 'name_of_file' (item size: 1) to 42 items.
+A level-1 auxiliary file: content/Situationsanalyse/PESTAnalyse.aux
+Reallocating 'name_of_file' (item size: 1) to 42 items.
+A level-1 auxiliary file: content/Situationsanalyse/SWOTAnalyse.aux
+Reallocating 'name_of_file' (item size: 1) to 29 items.
+A level-1 auxiliary file: content/MarketingMix/Mix.aux
+Reallocating 'name_of_file' (item size: 1) to 47 items.
+A level-1 auxiliary file: content/MarketingMix/Kommunikationspolitik.aux
+Reallocating 'name_of_file' (item size: 1) to 46 items.
+A level-1 auxiliary file: content/Situationsanalyse/Branchenanalyse.aux
+Reallocating 'name_of_file' (item size: 1) to 40 items.
+A level-1 auxiliary file: content/MarketingMix/Marketingziele.aux
+Reallocating 'name_of_file' (item size: 1) to 46 items.
+A level-1 auxiliary file: content/MarketingMix/Distributionspolitik.aux
+Reallocating 'name_of_file' (item size: 1) to 9 items.
+The style file: alphadin.bst
+Reallocating 'name_of_file' (item size: 1) to 21 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'wiz_functions' (item size: 4) to 6000 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Database file #1: literaturverzeichnis.bib
+Warning--entry type for "Mueller2021" isn't style-file defined
+--line 47 of file literaturverzeichnis.bib
+Warning--I didn't find a database entry for "Brun2014"
+You've used 7 entries,
+            4793 wiz_defined-function locations,
+            941 strings with 7743 characters,
+and the built_in function-call counts, 3360 in all, are:
+= -- 335
+> -- 56
+< -- 86
++ -- 85
+- -- 16
+* -- 170
+:= -- 558
+add.period$ -- 9
+call.type$ -- 7
+change.case$ -- 28
+chr.to.int$ -- 6
+cite$ -- 7
+duplicate$ -- 121
+empty$ -- 298
+format.name$ -- 42
+if$ -- 700
+int.to.chr$ -- 2
+int.to.str$ -- 0
+missing$ -- 25
+newline$ -- 48
+num.names$ -- 21
+pop$ -- 54
+preamble$ -- 1
+purify$ -- 42
+quote$ -- 0
+skip$ -- 203
+stack$ -- 0
+substring$ -- 213
+swap$ -- 14
+text.length$ -- 16
+text.prefix$ -- 7
+top$ -- 0
+type$ -- 61
+warning$ -- 0
+while$ -- 24
+width$ -- 11
+write$ -- 94
+(There were 2 warnings)

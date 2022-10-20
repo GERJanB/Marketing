@@ -8,5 +8,7 @@
 \contentsline {subsection}{\numberline {2.1}Kommunikationspolitik}{11}{}%
 \contentsline {subsection}{\numberline {2.2}Branchenanalyse}{13}{}%
 \contentsline {subsection}{\numberline {2.3}Marketingziele}{15}{}%
-\contentsline {subsection}{\numberline {2.4}Distributionspolitik}{16}{}%
+\contentsline {subsection}{\numberline {2.4}Preisstrategie}{16}{}%
+\contentsline {subsection}{\numberline {2.5}Preisdifferenzierung}{16}{}%
+\contentsline {subsection}{\numberline {2.6}Distributionspolitik}{18}{}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 

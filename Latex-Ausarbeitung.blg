@@ -3,8 +3,8 @@ Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: Latex-Ausarbeitung.aux
 Reallocating 'name_of_file' (item size: 1) to 41 items.
 A level-1 auxiliary file: content/Situationsanalyse/Ueberblick.aux
-Reallocating 'name_of_file' (item size: 1) to 39 items.
-A level-1 auxiliary file: content/Situationsanalyse/PersonaB.aux
+Reallocating 'name_of_file' (item size: 1) to 38 items.
+A level-1 auxiliary file: content/Situationsanalyse/Persona.aux
 Reallocating 'name_of_file' (item size: 1) to 42 items.
 A level-1 auxiliary file: content/Situationsanalyse/PESTAnalyse.aux
 Reallocating 'name_of_file' (item size: 1) to 42 items.
@@ -32,7 +32,7 @@ Warning--entry type for "Mueller2021" isn't style-file defined
 --line 47 of file literaturverzeichnis.bib
 You've used 7 entries,
             4793 wiz_defined-function locations,
-            939 strings with 7727 characters,
+            939 strings with 7726 characters,
 and the built_in function-call counts, 3360 in all, are:
 = -- 335
 > -- 56

@@ -30,10 +30,9 @@ Reallocating 'singl_function' (item size: 4) to 100 items.
 Database file #1: literaturverzeichnis.bib
 Warning--entry type for "Mueller2021" isn't style-file defined
 --line 47 of file literaturverzeichnis.bib
-Warning--I didn't find a database entry for "Brun2014"
 You've used 7 entries,
             4793 wiz_defined-function locations,
-            941 strings with 7743 characters,
+            939 strings with 7727 characters,
 and the built_in function-call counts, 3360 in all, are:
 = -- 335
 > -- 56
@@ -72,4 +71,4 @@ warning$ -- 0
 while$ -- 24
 width$ -- 11
 write$ -- 94
-(There were 2 warnings)
+(There was 1 warning)

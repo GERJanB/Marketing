@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.10.19)  20 OCT 2022 18:23
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.10.19)  20 OCT 2022 19:00
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -414,58 +414,54 @@ LaTeX Font Info:    Calculating math sizes for size <11.5> on input line 3.
 LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 10.
  (C:\Users\janbu\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
-)) [5
+) [5
 
 
 
-]
+]) [6]
 \openout2 = `content/Situationsanalyse/SWOTAnalyse.aux'.
 
- (content/Situationsanalyse/SWOTAnalyse.tex
-
-LaTeX Warning: Citation `Brun2014' on page 6 undefined on input line 4.
-
-[6
+ (content/Situationsanalyse/SWOTAnalyse.tex [7
 
 
 
 ]
-<Eigene Darstellungen/SWOT Tabelle.jpg, id=24, 1382.91656pt x 606.76688pt>
+<Eigene Darstellungen/SWOT Tabelle.jpg, id=28, 1382.91656pt x 606.76688pt>
 File: Eigene Darstellungen/SWOT Tabelle.jpg Graphic file (type jpg)
 <use Eigene Darstellungen/SWOT Tabelle.jpg>
 Package pdftex.def Info: Eigene Darstellungen/SWOT Tabelle.jpg  used on input line 80.
 (pdftex.def)             Requested size: 396.91325pt x 174.14322pt.
- [7 <./Eigene Darstellungen/SWOT Tabelle.jpg>]) [8]
+ [8 <./Eigene Darstellungen/SWOT Tabelle.jpg>]) [9]
 \openout2 = `content/MarketingMix/Mix.aux'.
 
- (content/MarketingMix/Mix.tex) [9
+ (content/MarketingMix/Mix.tex) [10
 
 
 
 ]
 \openout2 = `content/MarketingMix/Kommunikationspolitik.aux'.
 
- (content/MarketingMix/Kommunikationspolitik.tex [10
+ (content/MarketingMix/Kommunikationspolitik.tex [11
 
 
 
-]) [11]
+]) [12]
 \openout2 = `content/Situationsanalyse/Branchenanalyse.aux'.
 
- (content/Situationsanalyse/Branchenanalyse.tex [12
+ (content/Situationsanalyse/Branchenanalyse.tex [13
 
 
 
 ]
-<Eigene Darstellungen/Distributionswege2.png, id=44, 584.1825pt x 463.7325pt>
+<Eigene Darstellungen/Distributionswege2.png, id=48, 584.1825pt x 463.7325pt>
 File: Eigene Darstellungen/Distributionswege2.png Graphic file (type png)
 <use Eigene Darstellungen/Distributionswege2.png>
 Package pdftex.def Info: Eigene Darstellungen/Distributionswege2.png  used on input line 80.
 (pdftex.def)             Requested size: 396.91325pt x 315.08626pt.
-) [13 <./Eigene Darstellungen/Distributionswege2.png>]
+) [14 <./Eigene Darstellungen/Distributionswege2.png>]
 \openout2 = `content/MarketingMix/Marketingziele.aux'.
 
- (content/MarketingMix/Marketingziele.tex) [14
+ (content/MarketingMix/Marketingziele.tex) [15
 
 
 
@@ -473,16 +469,16 @@ Package pdftex.def Info: Eigene Darstellungen/Distributionswege2.png  used on in
 \openout2 = `content/MarketingMix/Distributionspolitik.aux'.
 
  (content/MarketingMix/Distributionspolitik.tex
-<Eigene Darstellungen/Distributionswege1.png, id=54, 482.80376pt x 322.20375pt>
+<Eigene Darstellungen/Distributionswege1.png, id=57, 482.80376pt x 322.20375pt>
 File: Eigene Darstellungen/Distributionswege1.png Graphic file (type png)
 <use Eigene Darstellungen/Distributionswege1.png>
 Package pdftex.def Info: Eigene Darstellungen/Distributionswege1.png  used on input line 50.
 (pdftex.def)             Requested size: 396.91325pt x 264.89217pt.
-) [15
+) [16
 
 
 
-] [16 <./Eigene Darstellungen/Distributionswege1.png>]) (Latex-Ausarbeitung.bbl
+] [17 <./Eigene Darstellungen/Distributionswege1.png>]) (Latex-Ausarbeitung.bbl
 LaTeX Font Info:    Trying to load font information for T1+pcr on input line 14.
  (C:\Users\janbu\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\t1pcr.fd
 File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
@@ -516,27 +512,23 @@ Underfull \hbox (badness 10000) in paragraph at lines 47--53
 \T1/pcr/m/n/11.5 schwindet -[] nachbarlaender -[] zeigen -[] wo -[] unser -[] system -[] krankt _
  []
 
-) [17
+) [18
 
 
-] (Latex-Ausarbeitung.aux (content/Situationsanalyse/Ueberblick.aux) (content/Situationsanalyse/PersonaB.aux) (content/Situationsanalyse/PESTAnalyse.aux) (content/Situationsanalyse/SWOTAnalyse.aux) (content/MarketingMix/Mix.aux) (content/MarketingMix/Kommunikationspolitik.aux) (content/Situationsanalyse/Branchenanalyse.aux) (content/MarketingMix/Marketingziele.aux) (content/MarketingMix/Distributionspolitik.aux))
-
-LaTeX Warning: There were undefined references.
-
- )
+] (Latex-Ausarbeitung.aux (content/Situationsanalyse/Ueberblick.aux) (content/Situationsanalyse/PersonaB.aux) (content/Situationsanalyse/PESTAnalyse.aux) (content/Situationsanalyse/SWOTAnalyse.aux) (content/MarketingMix/Mix.aux) (content/MarketingMix/Kommunikationspolitik.aux) (content/Situationsanalyse/Branchenanalyse.aux) (content/MarketingMix/Marketingziele.aux) (content/MarketingMix/Distributionspolitik.aux)) )
 (\end occurred when \ifx on line 25 was incomplete) 
 Here is how much of TeX's memory you used:
  8385 strings out of 475385
  172972 string characters out of 2776906
- 645643 words of memory out of 3000000
+ 645645 words of memory out of 3000000
  29565 multiletter control sequences out of 15000+600000
  511250 words of font info for 73 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  108i,12n,106p,10718b,392s stack positions out of 10000i,1000n,20000p,200000b,80000s
 {C:/Users/janbu/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/Users/janbu/AppData/Local/Programs/MiKTeX/fonts/type1/urw/courier/ucrr8a.pfb><C:/Users/janbu/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Users/janbu/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Users/janbu/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/janbu/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/janbu/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on Latex-Ausarbeitung.pdf (17 pages, 283330 bytes).
+Output written on Latex-Ausarbeitung.pdf (18 pages, 284536 bytes).
 PDF statistics:
- 94 PDF objects out of 1000 (max. 8388607)
+ 97 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  16 words of extra memory for PDF output out of 10000 (max. 10000000)
 

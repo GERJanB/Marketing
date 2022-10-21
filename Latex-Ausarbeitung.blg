@@ -28,24 +28,24 @@ Warning--entry type for "Mueller2021" isn't style-file defined
 --line 61 of file literaturverzeichnis.bib
 You've used 8 entries,
             4793 wiz_defined-function locations,
-            939 strings with 7657 characters,
-and the built_in function-call counts, 3766 in all, are:
-= -- 371
-> -- 64
-< -- 96
-+ -- 95
-- -- 18
-* -- 189
-:= -- 628
+            939 strings with 7660 characters,
+and the built_in function-call counts, 3799 in all, are:
+= -- 372
+> -- 75
+< -- 90
++ -- 93
+- -- 21
+* -- 196
+:= -- 641
 add.period$ -- 10
 call.type$ -- 8
-change.case$ -- 32
+change.case$ -- 33
 chr.to.int$ -- 7
 cite$ -- 8
 duplicate$ -- 138
-empty$ -- 337
-format.name$ -- 48
-if$ -- 784
+empty$ -- 338
+format.name$ -- 53
+if$ -- 791
 int.to.chr$ -- 2
 int.to.str$ -- 0
 missing$ -- 29
@@ -53,18 +53,18 @@ newline$ -- 53
 num.names$ -- 24
 pop$ -- 62
 preamble$ -- 1
-purify$ -- 48
+purify$ -- 49
 quote$ -- 0
-skip$ -- 228
+skip$ -- 225
 stack$ -- 0
-substring$ -- 233
-swap$ -- 16
+substring$ -- 225
+swap$ -- 17
 text.length$ -- 18
-text.prefix$ -- 8
+text.prefix$ -- 7
 top$ -- 0
 type$ -- 67
 warning$ -- 0
-while$ -- 27
+while$ -- 29
 width$ -- 12
 write$ -- 105
 (There was 1 warning)

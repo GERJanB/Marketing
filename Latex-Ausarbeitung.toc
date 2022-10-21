@@ -18,5 +18,5 @@
 \contentsline {subsubsection}{\numberline {2.4.1}Preisstrategie}{14}{}%
 \contentsline {subsubsection}{\numberline {2.4.2}Preisdifferenzierung}{14}{}%
 \contentsline {subsection}{\numberline {2.5}Distributionspolitik}{15}{}%
-\contentsline {section}{Zuordnung Texte zu Verfasser}{17}{}%
+\contentsline {section}{Zuordnung der Texte zu den Verfassern}{17}{}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 

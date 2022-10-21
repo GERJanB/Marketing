@@ -2,8 +2,6 @@ This is BibTeX, Version 0.99d
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: Latex-Ausarbeitung.aux
 Reallocating 'name_of_file' (item size: 1) to 42 items.
-A level-1 auxiliary file: content/Situationsanalyse/PESTAnalyse.aux
-Reallocating 'name_of_file' (item size: 1) to 42 items.
 A level-1 auxiliary file: content/Situationsanalyse/SWOTAnalyse.aux
 Reallocating 'name_of_file' (item size: 1) to 29 items.
 A level-1 auxiliary file: content/MarketingMix/Mix.aux
@@ -30,7 +28,7 @@ Warning--entry type for "Mueller2021" isn't style-file defined
 --line 61 of file literaturverzeichnis.bib
 You've used 8 entries,
             4793 wiz_defined-function locations,
-            940 strings with 7698 characters,
+            939 strings with 7657 characters,
 and the built_in function-call counts, 3766 in all, are:
 = -- 371
 > -- 64

@@ -46,16 +46,17 @@
 \tableofcontents %damit kann ein Inhaltsverzeichnis eingefügt werden
 \pagebreak
 
+% Verzeichnisse am Ende, erst das Glossar
+\addonchapter{Zuordnung der Texte zu den Verfassern} % Es soll auch Glossar heißen
+\input{content/glossar}
+\pagebreak
+
+
 % Fußzeilen ab Seite 1 (fancy style auch auf titelpage)
 \thispagestyle{fancy}
 
 % Inhalte einfügen
 \input{content/inhalt}
-\pagebreak
-
-% Verzeichnisse am Ende, erst das Glossar
-\addonchapter{Zuordnung der Texte zu den Verfassern} % Es soll auch Glossar heißen
-\input{content/glossar}
 \pagebreak
 
 % Literatur

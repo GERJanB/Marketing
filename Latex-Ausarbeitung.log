@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.10.19)  21 OCT 2022 20:16
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.10.19)  21 OCT 2022 20:24
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -390,36 +390,36 @@ File: t1phv.fd 2020/03/25 scalable font definitions for T1/phv.
 
 
 {C:/Users/janbu/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] (Latex-Ausarbeitung.toc
-LaTeX Font Info:    Calculating math sizes for size <11.5> on input line 3.
+LaTeX Font Info:    Calculating math sizes for size <11.5> on input line 4.
 )
 \tf@toc=\write3
 \openout3 = `Latex-Ausarbeitung.toc'.
 
- [2] (content/inhalt.tex [3] [4]
-<Eigene Darstellungen/Distributionswege2.png, id=17, 584.1825pt x 463.7325pt>
+ [2] (content/glossar.tex) [3
+
+
+] (content/inhalt.tex [4] [5]
+<Eigene Darstellungen/Distributionswege2.png, id=20, 584.1825pt x 463.7325pt>
 File: Eigene Darstellungen/Distributionswege2.png Graphic file (type png)
 <use Eigene Darstellungen/Distributionswege2.png>
-Package pdftex.def Info: Eigene Darstellungen/Distributionswege2.png  used on input line 117.
+Package pdftex.def Info: Eigene Darstellungen/Distributionswege2.png  used on input line 119.
 (pdftex.def)             Requested size: 396.91325pt x 315.08626pt.
-LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 145.
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 147.
  (C:\Users\janbu\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
-) [5 <./Eigene Darstellungen/Distributionswege2.png>] [6] [7]
-<Eigene Darstellungen/SWOT Tabelle.jpg, id=31, 1382.91656pt x 606.76688pt>
+) [6 <./Eigene Darstellungen/Distributionswege2.png>] [7] [8]
+<Eigene Darstellungen/SWOT Tabelle.jpg, id=34, 1382.91656pt x 606.76688pt>
 File: Eigene Darstellungen/SWOT Tabelle.jpg Graphic file (type jpg)
 <use Eigene Darstellungen/SWOT Tabelle.jpg>
-Package pdftex.def Info: Eigene Darstellungen/SWOT Tabelle.jpg  used on input line 305.
+Package pdftex.def Info: Eigene Darstellungen/SWOT Tabelle.jpg  used on input line 307.
 (pdftex.def)             Requested size: 396.91325pt x 174.14322pt.
- [8 <./Eigene Darstellungen/SWOT Tabelle.jpg>] [9] [10] [11] [12] [13] [14] [15]
-<Eigene Darstellungen/Distributionswege1.png, id=57, 482.80376pt x 322.20375pt>
+ [9 <./Eigene Darstellungen/SWOT Tabelle.jpg>] [10] [11] [12] [13] [14] [15] [16]
+<Eigene Darstellungen/Distributionswege1.png, id=60, 482.80376pt x 322.20375pt>
 File: Eigene Darstellungen/Distributionswege1.png Graphic file (type png)
 <use Eigene Darstellungen/Distributionswege1.png>
-Package pdftex.def Info: Eigene Darstellungen/Distributionswege1.png  used on input line 768.
+Package pdftex.def Info: Eigene Darstellungen/Distributionswege1.png  used on input line 757.
 (pdftex.def)             Requested size: 396.91325pt x 264.89217pt.
-) [16] [17 <./Eigene Darstellungen/Distributionswege1.png>] (content/glossar.tex) [18
-
-
-] (Latex-Ausarbeitung.bbl
+ [17 <./Eigene Darstellungen/Distributionswege1.png>]) [18] (Latex-Ausarbeitung.bbl
 LaTeX Font Info:    Trying to load font information for T1+pcr on input line 14.
  (C:\Users\janbu\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\t1pcr.fd
 File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
@@ -468,13 +468,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 63--69
 Here is how much of TeX's memory you used:
  8155 strings out of 475385
  159389 string characters out of 2776906
- 643297 words of memory out of 3000000
+ 643251 words of memory out of 3000000
  29399 multiletter control sequences out of 15000+600000
  511250 words of font info for 73 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  108i,12n,106p,10718b,392s stack positions out of 10000i,1000n,20000p,200000b,80000s
 {C:/Users/janbu/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/Users/janbu/AppData/Local/Programs/MiKTeX/fonts/type1/urw/courier/ucrr8a.pfb><C:/Users/janbu/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Users/janbu/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Users/janbu/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/janbu/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/janbu/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on Latex-Ausarbeitung.pdf (19 pages, 298158 bytes).
+Output written on Latex-Ausarbeitung.pdf (19 pages, 296390 bytes).
 PDF statistics:
  101 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

@@ -46,11 +46,6 @@
 \tableofcontents %damit kann ein Inhaltsverzeichnis eingefügt werden
 \pagebreak
 
-% Verzeichnisse am Ende, erst das Glossar
-\addonchapter{Zuordnung Texte} % Es soll auch Glossar heißen
-\input{content/glossar}
-\pagebreak
-
 % Fußzeilen ab Seite 1 (fancy style auch auf titelpage)
 \thispagestyle{fancy}
 
@@ -58,6 +53,10 @@
 \input{content/inhalt}
 \pagebreak
 
+% Verzeichnisse am Ende, erst das Glossar
+\addonchapter{Zuordnung Texte zu Verfasser} % Es soll auch Glossar heißen
+\input{content/glossar}
+\pagebreak
 
 % Literatur
 \bibliographystyle{alphadin}									% Alphadin-Bibitem-Style zur Darstellung der Zitatkeys nach BA-Vorgabe
@@ -65,5 +64,4 @@
 %\bibliography{literaturverzeichnis}
 \bibliography{literaturverzeichnis}
 % in JabRef bei Autorennamen Umlaute so schreiben: ö = {\"{o}}
-
 \end{document}

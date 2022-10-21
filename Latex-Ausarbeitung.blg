@@ -14,45 +14,45 @@ Warning--entry type for "Mueller2021" isn't style-file defined
 --line 61 of file literaturverzeichnis.bib
 Warning--entry type for "Erickson2021" isn't style-file defined
 --line 169 of file literaturverzeichnis.bib
-You've used 10 entries,
+You've used 11 entries,
             4793 wiz_defined-function locations,
-            943 strings with 7590 characters,
-and the built_in function-call counts, 4610 in all, are:
-= -- 446
-> -- 91
-< -- 108
-+ -- 111
-- -- 25
-* -- 235
-:= -- 777
-add.period$ -- 13
-call.type$ -- 10
-change.case$ -- 41
-chr.to.int$ -- 9
-cite$ -- 10
-duplicate$ -- 170
-empty$ -- 412
-format.name$ -- 65
-if$ -- 962
+            949 strings with 7679 characters,
+and the built_in function-call counts, 5264 in all, are:
+= -- 516
+> -- 110
+< -- 130
++ -- 136
+- -- 32
+* -- 275
+:= -- 887
+add.period$ -- 14
+call.type$ -- 11
+change.case$ -- 46
+chr.to.int$ -- 10
+cite$ -- 11
+duplicate$ -- 188
+empty$ -- 456
+format.name$ -- 76
+if$ -- 1092
 int.to.chr$ -- 2
 int.to.str$ -- 0
-missing$ -- 39
-newline$ -- 64
-num.names$ -- 30
-pop$ -- 77
+missing$ -- 43
+newline$ -- 69
+num.names$ -- 33
+pop$ -- 85
 preamble$ -- 1
-purify$ -- 61
+purify$ -- 68
 quote$ -- 0
-skip$ -- 275
+skip$ -- 316
 stack$ -- 0
-substring$ -- 263
-swap$ -- 21
-text.length$ -- 22
+substring$ -- 308
+swap$ -- 24
+text.length$ -- 25
 text.prefix$ -- 9
 top$ -- 0
-type$ -- 83
+type$ -- 93
 warning$ -- 0
-while$ -- 35
-width$ -- 14
-write$ -- 129
+while$ -- 41
+width$ -- 16
+write$ -- 141
 (There were 2 warnings)

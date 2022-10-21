@@ -17,6 +17,8 @@ Reallocating 'name_of_file' (item size: 1) to 46 items.
 A level-1 auxiliary file: content/Situationsanalyse/Branchenanalyse.aux
 Reallocating 'name_of_file' (item size: 1) to 40 items.
 A level-1 auxiliary file: content/MarketingMix/Marketingziele.aux
+Reallocating 'name_of_file' (item size: 1) to 40 items.
+A level-1 auxiliary file: content/MarketingMix/Produktpolitik.aux
 Reallocating 'name_of_file' (item size: 1) to 38 items.
 A level-1 auxiliary file: content/MarketingMix/Preispolitik.aux
 Reallocating 'name_of_file' (item size: 1) to 46 items.
@@ -31,46 +33,46 @@ Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
 Database file #1: literaturverzeichnis.bib
 Warning--entry type for "Mueller2021" isn't style-file defined
---line 47 of file literaturverzeichnis.bib
-You've used 7 entries,
+--line 61 of file literaturverzeichnis.bib
+You've used 8 entries,
             4793 wiz_defined-function locations,
-            940 strings with 7763 characters,
-and the built_in function-call counts, 3360 in all, are:
-= -- 335
-> -- 56
-< -- 86
-+ -- 85
-- -- 16
-* -- 170
-:= -- 558
-add.period$ -- 9
-call.type$ -- 7
-change.case$ -- 28
-chr.to.int$ -- 6
-cite$ -- 7
-duplicate$ -- 121
-empty$ -- 298
-format.name$ -- 42
-if$ -- 700
+            943 strings with 7820 characters,
+and the built_in function-call counts, 3766 in all, are:
+= -- 371
+> -- 64
+< -- 96
++ -- 95
+- -- 18
+* -- 189
+:= -- 628
+add.period$ -- 10
+call.type$ -- 8
+change.case$ -- 32
+chr.to.int$ -- 7
+cite$ -- 8
+duplicate$ -- 138
+empty$ -- 337
+format.name$ -- 48
+if$ -- 784
 int.to.chr$ -- 2
 int.to.str$ -- 0
-missing$ -- 25
-newline$ -- 48
-num.names$ -- 21
-pop$ -- 54
+missing$ -- 29
+newline$ -- 53
+num.names$ -- 24
+pop$ -- 62
 preamble$ -- 1
-purify$ -- 42
+purify$ -- 48
 quote$ -- 0
-skip$ -- 203
+skip$ -- 228
 stack$ -- 0
-substring$ -- 213
-swap$ -- 14
-text.length$ -- 16
-text.prefix$ -- 7
+substring$ -- 233
+swap$ -- 16
+text.length$ -- 18
+text.prefix$ -- 8
 top$ -- 0
-type$ -- 61
+type$ -- 67
 warning$ -- 0
-while$ -- 24
-width$ -- 11
-write$ -- 94
+while$ -- 27
+width$ -- 12
+write$ -- 105
 (There was 1 warning)

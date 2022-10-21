@@ -8,7 +8,13 @@
 \contentsline {subsection}{\numberline {2.1}Kommunikationspolitik}{11}{}%
 \contentsline {subsection}{\numberline {2.2}Branchenanalyse}{13}{}%
 \contentsline {subsection}{\numberline {2.3}Marketingziele}{15}{}%
-\contentsline {subsection}{\numberline {2.4}Preisstrategie}{16}{}%
-\contentsline {subsection}{\numberline {2.5}Preisdifferenzierung}{16}{}%
-\contentsline {subsection}{\numberline {2.6}Distributionspolitik}{18}{}%
+\contentsline {section}{\numberline {3}Produktpolitik}{16}{}%
+\contentsline {subsection}{\numberline {3.1}Ziele der Produktpolitik}{16}{}%
+\contentsline {subsection}{\numberline {3.2}Nutzenkomponenten eines Produkts}{16}{}%
+\contentsline {subsection}{\numberline {3.3}Produktvarianten}{17}{}%
+\contentsline {subsubsection}{\numberline {3.3.1}RinnenRobo}{17}{}%
+\contentsline {subsubsection}{\numberline {3.3.2}RinnenRobo Business}{17}{}%
+\contentsline {subsection}{\numberline {3.4}Preisstrategie}{18}{}%
+\contentsline {subsection}{\numberline {3.5}Preisdifferenzierung}{18}{}%
+\contentsline {subsection}{\numberline {3.6}Distributionspolitik}{20}{}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
